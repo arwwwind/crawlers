@@ -4,11 +4,12 @@ const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const uuid = require('uuid/v4');
 const fs = require('fs');
 const mainDishSel = '.menu-item__main-container.cursor-pointer > a';
+const sideopenerSel = 'p.addon-panel__cta.text--bolder.cursor-pointer';
 
 puppeteer.use(StealthPlugin());
 
 async function run() {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
 
   await page.setRequestInterception(true);
@@ -26,6 +27,12 @@ async function run() {
     await page.goto('https://polpa.co/bangkok/menu', {
       timeout: 3000000
     });
+
+    await page.waitForSelector(sideopenerSel, { timeout: 0 });
+    const clickThemAll = await page.$$eval(sideopenerSel, links =>
+      links.map(link => link.click())
+    );
+
     await page.waitForSelector(mainDishSel, { timeout: 0 });
     let postUrls = await page.$$eval(mainDishSel, postLinks => {
       return postLinks.map(link => link.href);
@@ -45,8 +52,10 @@ async function run() {
     let filteredUrl = [];
 
     for (var key in unique) {
-      filteredUrl.push(unique[key])
+      filteredUrl.push(unique[key]);
     }
+
+    console.log(filteredUrl);
 
     let crawlData = [];
 
