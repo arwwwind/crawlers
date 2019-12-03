@@ -1,0 +1,16 @@
+{
+  "index": "dhamakan",
+  "type": "_doc",
+  "body": {
+    "properties": {
+      "title": {
+        "type": "text",
+        "analyzer": "english"
+      },
+      "content": {
+        "type": "text",
+        "analyzer": "english"
+      }
+    }
+  }
+}

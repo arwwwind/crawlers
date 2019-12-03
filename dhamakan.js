@@ -24,7 +24,7 @@ async function run() {
 
   try {
     await page.setViewport({ width: 1280, height: 800 });
-    await page.goto('https://polpa.co/bangkok/menu', {
+    await page.goto('https://dahmakan.com/kuala-lumpur/menu', {
       timeout: 3000000
     });
 
@@ -60,27 +60,36 @@ async function run() {
     let crawlData = [];
 
     for (let i = 1; i <= filteredUrl.length; i++) {
+      console.log(i);
       await page.goto(filteredUrl[i - 1], {
         timeout: 3000000
       });
       const titleSel = 'h1.dish__title';
-      const contentSel = '.general-view.lh--150';
       const costSel = '.dish__price > span';
       const imageSel = '.dish__image.border--rounded';
-
+      
       await page.waitForSelector(titleSel, { timeout: 0 });
-      await page.waitForSelector(contentSel, { timeout: 0 });
       await page.waitForSelector(costSel, { timeout: 0 });
       await page.waitForSelector(imageSel, { timeout: 0 });
-
+      
       const title = await page.$eval(titleSel, titleSel => titleSel.outerText);
-      const content = await page.$eval(
+      
+      let content;
+      try {
+        const contentSel = '.general-view.lh--150';
+        // await page.waitForSelector(contentSel, { timeout: 0 });
+        content = await page.$eval(
         contentSel,
         contentSel => contentSel.outerText
       );
+      } catch(err) {
+        console.log('Item does not have description');
+        content = null;
+      }
+
       const cost = await page.$eval(costSel, costSel => {
         let c = costSel.outerText;
-        c = parseInt(c.substring(2), 10);
+        c = parseFloat(c.substring(2, 8), 10);
         return c;
       });
       const img = await page.$eval(imageSel, imageSel => {
@@ -102,10 +111,10 @@ async function run() {
         url: filteredUrl[i - 1],
         img: allImg
       });
-      // await page.screenshot({ path: `screenshots/polpa${Date.now()}.png` });
+      // await page.screenshot({ path: `screenshots/dhamakan${Date.now()}.png` });
     }
     fs.writeFileSync(
-      `./data/polpa${Date.now()}.json`,
+      `./data/dhamakan${Date.now()}.json`,
       JSON.stringify(crawlData, null, 10),
       err => {
         err ? console.error(err) : console.log('done');

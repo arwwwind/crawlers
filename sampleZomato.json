@@ -1,0 +1,3952 @@
+{
+  "pageData": {
+    "basic_info": {
+      "has_fake_review": false,
+      "res_id": "19092616",
+      "subzone_id": "5413",
+      "city_id": "4",
+      "city": "Bengaluru",
+      "country_id": 1,
+      "is_closed_flag": false,
+      "res_subzone_url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+      "short_link": "https://zoma.to/r/19092616",
+      "photos_tab_urls": {
+        "all": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/photos?category=all",
+        "food": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/photos?category=food",
+        "ambience": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/photos?category=ambience"
+      },
+      "urls": {
+        "INFO": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore",
+        "TABLE_RESERVATION": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/book",
+        "EVENTS": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/events",
+        "PHOTOS": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/photos?category=all",
+        "MENU": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/menu",
+        "MAPS": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/maps",
+        "REVIEWS": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/reviews",
+        "ORDER": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/order",
+        "DAILY_MENU": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/daily-menu"
+      },
+      "is_dark_kitchen": false,
+      "is_seating_available": true,
+      "restaurant_address": "963, 12th Main Road, Indiranagar, Bangalore",
+      "user_review_count": 421,
+      "hidden_reviewers_count": 198,
+      "wishlisters_count": 1488,
+      "beenthere_count": 320,
+      "is_beenthere": false,
+      "is_bookmarked": false,
+      "is_open_now": true,
+      "openInAppURL": "http://zoma.to/r/19092616",
+      "phoneData": {
+        "phone_string": "080 49652790",
+        "isACD": true,
+        "isDirect": true,
+        "mobile_string": "080 49652790",
+        "mobile_string_display": "080 49652790",
+        "phone_string_available": 1,
+        "resinfo_phone_title": "Daddy, Indiranagar phone number",
+        "number_available": true,
+        "phone_no_label": "Phone number",
+        "showWhatsThis": false,
+        "acd_active_flag": 1,
+        "has_acd": 1,
+        "isd_code": "91",
+        "zm-restaurant-table-res-at": "Table reservations at Daddy, Bangalore"
+      },
+      "event_phone_data": [],
+      "name": "Daddy",
+      "subzone_name_verbose": "Indiranagar",
+      "timings_display": "12 Noon to 1 AM",
+      "website": null,
+      "subzone_name": "Indiranagar",
+      "serves_veg_flag": 0,
+      "pure_veg_flag": 0,
+      "opening_soon_flag": 0,
+      "temp_closed_flag": 0,
+      "real_city": "Bangalore",
+      "rating": {
+        "aria-label": "Rated NEW",
+        "level": "level-new",
+        "display": "NEW"
+      },
+      "reviews_section_text": {
+        "title": "Trustworthy Reviews",
+        "image": "https://b.zmtcdn.com/data/reviews/6b223f5370720a9caa41c1b0c740fa0d1548235035.png?output-format=webp",
+        "description": "100% genuine reviews from real foodies based on real experiences",
+        "description_long": "Zomato rating is based on weighted average method of calculation that takes into account multiple factors such as votes, user credibility and local trends to come up with a score that you can rely on."
+      },
+      "hasOrder": false,
+      "hasBooking": true,
+      "thumb": "https://b.zmtcdn.com/data/pictures/6/19092616/782146b61bc0bcf7646622590531d148.jpg?output-format=webp",
+      "disclaimer_data": [],
+      "is_pre_payment_booking_enabled": false,
+      "geolocation_data": {
+        "lat": "12.9699990000",
+        "long": "77.6399170000"
+      }
+    },
+    "o2_blocker_data": {
+      "amount": "₹100",
+      "promo_name": "FIRST"
+    },
+    "spotlight_ads_data": {
+      "has_spotlight_ads": false,
+      "spotlight_ads": []
+    },
+    "delivery_status": {
+      "hasOnlineDelivery": 0,
+      "isDeliveringNow": 0,
+      "online_status_code": 8
+    },
+    "offers": null,
+    "cuisines": [
+      {
+        "id": "271",
+        "title": "View all Finger Food Restaurants in Bengaluru",
+        "url": "https://www.zomato.com/bangalore/restaurants/finger-food",
+        "name": "Finger Food"
+      },
+      {
+        "id": "35",
+        "title": "View all Continental Restaurants in Bengaluru",
+        "url": "https://www.zomato.com/bangalore/restaurants/continental",
+        "name": "Continental"
+      },
+      {
+        "id": "50",
+        "title": "View all North Indian Restaurants in Bengaluru",
+        "url": "https://www.zomato.com/bangalore/restaurants/north-indian",
+        "name": "North Indian"
+      },
+      {
+        "id": "3",
+        "title": "View all Asian Restaurants in Bengaluru",
+        "url": "https://www.zomato.com/bangalore/restaurants/asian",
+        "name": "Asian"
+      }
+    ],
+    "o2_info": [],
+    "reviewsEnabled": true,
+    "pages": {
+      "MENU": {
+        "title": "Daddy Menu, Menu for Daddy, Indiranagar, Bangalore\n - Zomato",
+        "description": "Daddy Indiranagar Menu - View the Menu for Daddy Bangalore on Zomato for Delivery, Dine-out or Takeaway, Daddy menu and prices. Daddy Menu\n"
+      },
+      "DAILY-MENU": {
+        "title": "Daddy, Bangalore Daily menu - Zomato",
+        "description": "Daddy, Indiranagar Daily menu - View the today's menu with prices for Daddy Bangalore on Zomato."
+      },
+      "PHOTOS": {
+        "title": "Daddy Photos, Pictures of Daddy, Indiranagar, Bangalore\n - Zomato",
+        "description": "Photos of Daddy,  Indiranagar, Bangalore. Daddy Pictures, Daddy Photos\n"
+      },
+      "MAPS": {
+        "title": "Address of Daddy, Indiranagar | Daddy, Indiranagar, Bangalore Location\n - Zomato",
+        "description": "Location of Daddy, Indiranagar, Bangalore; Daddy on Google Maps; Directions to Daddy on Zomato\n"
+      },
+      "EVENTS": {
+        "title": "Events at Daddy, Indiranagar, Bangalore\n - Zomato",
+        "description": "Current and Upcoming Events at Daddy, Indiranagar, Bangalore; Get all the details about events happening at Daddy, Bangalore on Zomato\n"
+      },
+      "VIDEO": {
+        "title": "Daddy Video, Video for Daddy, Indiranagar, Bangalore\n - Zomato",
+        "description": "Daddy Indiranagar Video - View the Video for Daddy Bangalore on Zomato. Daddy Video\n"
+      },
+      "INFO": {
+        "title": " \nDaddy, Indiranagar, Bangalore\n - Zomato",
+        "description": " \nDaddy Bangalore; Daddy, Indiranagar; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Daddy Restaurant on Zomato\n"
+      },
+      "ORDER": {
+        "title": " - Zomato",
+        "description": ""
+      },
+      "REORDER": {
+        "title": " - Zomato",
+        "description": ""
+      },
+      "RECOMMENDERS": {
+        "title": " - Zomato",
+        "description": ""
+      },
+      "BOOK": {
+        "title": "Online table reservation at Daddy, Indiranagar, Bangalore - Zomato",
+        "description": "Book table online at Daddy. Quick, easy & free online table reservation at Daddy, Indiranagar, Bangalore powered by Zomato "
+      },
+      "REVIEWS": {
+        "title": "Daddy Reviews, User Reviews for Daddy, Indiranagar, Bangalore\n - Zomato",
+        "description": "User Reviews for Daddy, Indiranagar, Bangalore; Daddy Reviews; Daddy, Bangalore restaurant reviews on Zomato\n"
+      }
+    },
+    "ab_experiement_sections_order": false,
+    "menus_data": {
+      "text_menus": [],
+      "image_menus": [
+        {
+          "menu_type": "FOOD",
+          "name": "Food",
+          "photos": [
+            {
+              "id": "138763012",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/054f454155ab51130219c32c47b0505a.jpg?output-format=webp"
+            },
+            {
+              "id": "138763013",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/d71544b1f1f3710d4811adc36625f788.jpg?output-format=webp"
+            },
+            {
+              "id": "138763014",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/dfa7a6f98e6d1013cb32da80c2d3d8a1.jpg?output-format=webp"
+            },
+            {
+              "id": "138763015",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/fdb43c98d6c4e4e148deabfd8e39b94d.jpg?output-format=webp"
+            },
+            {
+              "id": "138763016",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/d010fea19efc083a4375c831da643893.jpg?output-format=webp"
+            },
+            {
+              "id": "138763017",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/f17e02dea1bf2da013916e53b6046ba1.jpg?output-format=webp"
+            },
+            {
+              "id": "138763018",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/23a26744ca7da9ed9c2c98780565b2bf.jpg?output-format=webp"
+            },
+            {
+              "id": "138763019",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/712cefa9aed8904047c5a3cbfdba0b13.jpg?output-format=webp"
+            },
+            {
+              "id": "138763020",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/6521d42c819f3a1f699192043a601ce1.jpg?output-format=webp"
+            },
+            {
+              "id": "138763021",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/495374650a7ff23e8339af18bc94fd49.jpg?output-format=webp"
+            },
+            {
+              "id": "138763022",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/ea23472a587921c2e998c83cbc92ecfd.jpg?output-format=webp"
+            },
+            {
+              "id": "138763023",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/2cf93bb0693e0ecdbef276adb6cf7518.jpg?output-format=webp"
+            },
+            {
+              "id": "138763024",
+              "uploaded_by": 82262142,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/15e85d603e32e77cb4f5d5518b5a0aee.jpg?output-format=webp"
+            }
+          ]
+        },
+        {
+          "menu_type": "BAR",
+          "name": "Bar",
+          "photos": [
+            {
+              "id": "138750774",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/b825c0be156a568a094ae48130cbaf3f.jpg?output-format=webp"
+            },
+            {
+              "id": "138750775",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/8c2a8aaeadf48d697bbf7ab909860a5b.jpg?output-format=webp"
+            },
+            {
+              "id": "138750776",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/abccea208a54636d84f42a7494f6b82a.jpg?output-format=webp"
+            },
+            {
+              "id": "138750777",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/f9f14d8048025dab8d166a056514b065.jpg?output-format=webp"
+            },
+            {
+              "id": "138750782",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/58b5f477559a5fedb7c310b830797e3f.jpg?output-format=webp"
+            },
+            {
+              "id": "138750783",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/349a30eb406575aced12c3946c7328d5.jpg?output-format=webp"
+            },
+            {
+              "id": "138750784",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/2564cc7aaea6c401a94f0c99cbf1b4d8.jpg?output-format=webp"
+            },
+            {
+              "id": "138750785",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/6fb71a64e883b8e578703c8137dc7736.jpg?output-format=webp"
+            },
+            {
+              "id": "138750786",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/eebba3886f58e4f0132a8021bfe1e9fd.jpg?output-format=webp"
+            },
+            {
+              "id": "138750787",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/aab8d04f4deb8b2e9529c1c6986caf68.jpg?output-format=webp"
+            },
+            {
+              "id": "138750788",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/cf6ad02614c7991968314dcf4cfe3f34.jpg?output-format=webp"
+            },
+            {
+              "id": "138750789",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/e74cb8398b4cfd834532cbfc69f513a9.jpg?output-format=webp"
+            },
+            {
+              "id": "138750790",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/f439709bc2f1ef96136f5a81c08acc0d.jpg?output-format=webp"
+            },
+            {
+              "id": "138750791",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/30d05069654e1bfae4d9bc5b534a747d.jpg?output-format=webp"
+            },
+            {
+              "id": "138750792",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/ff088ad813397c7828efac09bebb4055.jpg?output-format=webp"
+            },
+            {
+              "id": "138750793",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/4926e32a0afa6dd30e432c74389e4b03.jpg?output-format=webp"
+            },
+            {
+              "id": "138750794",
+              "uploaded_by": 29231035,
+              "url": "https://b.zmtcdn.com/data/menus/616/19092616/87f7450642ff4e9cbe477b314cf82500.jpg?output-format=webp"
+            }
+          ]
+        }
+      ],
+      "app_only": true,
+      "device_type": "android",
+      "res_city_id": 4
+    },
+    "er_data": {
+      "logo": "https://b.zmtcdn.com/images/sneakpeak_black.png?fit=around%7C130%3A130&output-format=webp",
+      "tag_text": "EDITOR’S NOTES",
+      "image_url": "https://b.zmtcdn.com/images/respage_editorial_banner_image_2.jpg?output-format=webp",
+      "badge_image_url": "https://b.zmtcdn.com/images/editorial_review_final_badge.png?output-format=webp",
+      "button_text": "Read more",
+      "section_data": {
+        "video": {
+          "video_id": "fa682413-45af-46c2-8dd3-04f7230c7d21",
+          "url": "https://v.zmtcdn.com/prod/o/7966a987789142f883b97b2190d1f3df/c/fa682413-45af-46c2-8dd3-04f7230c7d21.m3u8",
+          "caption": "",
+          "thumb": "https://b.zmtcdn.com/data/reviews_photos/8c0/a567428632c5ceb73d8e1aa2eba1a8c0_1562392874.jpg",
+          "orientation": 2,
+          "aspect_ratio": 0.75,
+          "is_portrait_mode": true
+        },
+        "header": {
+          "title": "Kitschy decor, gastronomical experience",
+          "subtitle": "",
+          "title_color": "#173143",
+          "subtitle_color": "#173143",
+          "image_url": ""
+        },
+        "description": "Angelic, bulb holding cherubs, Greek gods performing millennial activities, great men across history photoshopped to fit into the current generation--Daddy offers a plethora of kitschy decor. The rooftop is an antithesis to the circus below: al fresco dining, with simple seating, a row of curtained cabanas on one end and an island bar; the vast, blue sky is the main attraction here. The latest addition to 12th Main Indiranagar, Daddy clearly offers the best of both worlds, with the contrasting ambience and its multi-cuisine menu. "
+      },
+      "banner_data": {
+        "title": "",
+        "description": "",
+        "image_url": "?fit=around%7C130%3A130"
+      },
+      "play_btn_image": "https://b.zmtcdn.com/images/video_play.png?output-format=webp",
+      "sneakpeek_url": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/sneak-peek",
+      "url": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/sneak-peek"
+    },
+    "daily_menus_data": {
+      "daily_menus": null,
+      "long_menus": null
+    },
+    "photos_data": {
+      "photo_categories": [
+        {
+          "category": "all",
+          "category_label": "All Photos",
+          "total_photos": 435,
+          "count": 4,
+          "photos": [
+            "r_DE1Mjg5MgNTMxN",
+            "r_wODY1MjYxNDk5N",
+            "r_zY1MzU5Nzg4NjI",
+            "r_MjMwNzY0MzQwMz"
+          ]
+        },
+        {
+          "category": "food",
+          "category_label": "Food",
+          "total_photos": 316,
+          "count": 4,
+          "photos": [
+            "u_NzQwMjAzNDkzNz",
+            "u_NDk5NwNTU3NTc5",
+            "u_I0MzczNjg1MzE1",
+            "u_TMwNzM1MzU5NTI"
+          ]
+        },
+        {
+          "category": "ambience",
+          "category_label": "Ambience",
+          "total_photos": 40,
+          "count": 4,
+          "photos": [
+            "r_DE1Mjg5MgNTMxN",
+            "r_wODY1MjYxNDk5N",
+            "r_zY1MzU5Nzg4NjI",
+            "r_MjMwNzY0MzQwMz"
+          ]
+        }
+      ],
+      "authors": [
+        {
+          "basic_info": {
+            "name": "Zomato",
+            "id": "1",
+            "profile_picture": "https://b.zmtcdn.com/images/zomato_logo_2016.png?output-format=webp"
+          }
+        },
+        {
+          "basic_info": {
+            "id": "1629777",
+            "name": "Akhil Kohli (gourmet.theories)",
+            "username": "akhilkohlifoodjourney",
+            "bio": "Contact akhilkohli21@gmail.com or 9035096444 for collaborations",
+            "website_safe_link": "https://www.zomato.com/redirect?u=https%3A%2F%2Fakhilkohlifoodjourney.wordpress.com%2F&t=a839c3408d39dcb48d9e614660b6225e&g=user-profile-website",
+            "website_link": "https://akhilkohlifoodjourney.wordpress.com/",
+            "beenthere_count": 771,
+            "bookmarks_count": 121,
+            "photos_count": 4042,
+            "foodie_level": 13,
+            "foodie_rank_text": "Connoisseur",
+            "followers_count": 2275,
+            "is_followed": false,
+            "is_verified": 0,
+            "reviews_count": 430,
+            "blog_posts_count": 0,
+            "profile_picture": "https://b.zmtcdn.com/data/user_profile_pictures/945/3ff59409745b916b9c6e71b2df791945.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+            "profile_url": "https://www.zomato.com/akhilkohlifoodjourney",
+            "lives_in": {
+              "entity_type": "city",
+              "entity_id": 4,
+              "group": "",
+              "landmark": "",
+              "near-me": "",
+              "subzone": "",
+              "zone": "",
+              "country": 1,
+              "country_name": "India",
+              "city_data": {
+                "id": 4,
+                "name": "Bengaluru",
+                "urls": {
+                  "collections": {
+                    "featured": "https://www.zomato.com/bangalore/collections?tab=featured"
+                  },
+                  "info": "https://www.zomato.com/bangalore"
+                },
+                "has_tablebooking": true,
+                "has_zomaland": false,
+                "is_zland_ticket_purchasable": false,
+                "has_order": true,
+                "show_google_banners": false,
+                "nearby_localities": [
+                  {
+                    "name": "Indiranagar",
+                    "count": 658,
+                    "url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+                    "title": "Restaurants in Indiranagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5413",
+                      "name": "Indiranagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Marathahalli",
+                    "count": 962,
+                    "url": "https://www.zomato.com/bangalore/marathahalli-restaurants",
+                    "title": "Restaurants in Marathahalli",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5404",
+                      "name": "Marathahalli",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Whitefield",
+                    "count": 1233,
+                    "url": "https://www.zomato.com/bangalore/whitefield-restaurants",
+                    "title": "Restaurants in Whitefield",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5401",
+                      "name": "Whitefield",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 5th Block",
+                    "count": 316,
+                    "url": "https://www.zomato.com/bangalore/koramangala-5th-block-restaurants",
+                    "title": "Restaurants in Koramangala 5th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162246",
+                      "name": "Koramangala 5th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "HSR",
+                    "count": 878,
+                    "url": "https://www.zomato.com/bangalore/hsr-restaurants",
+                    "title": "Restaurants in HSR",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5007",
+                      "name": "HSR",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Jayanagar",
+                    "count": 495,
+                    "url": "https://www.zomato.com/bangalore/jayanagar-restaurants",
+                    "title": "Restaurants in Jayanagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5011",
+                      "name": "Jayanagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "JP Nagar",
+                    "count": 662,
+                    "url": "https://www.zomato.com/bangalore/jp-nagar-restaurants",
+                    "title": "Restaurants in JP Nagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5004",
+                      "name": "JP Nagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Sarjapur Road",
+                    "count": 469,
+                    "url": "https://www.zomato.com/bangalore/sarjapur-road-restaurants",
+                    "title": "Restaurants in Sarjapur Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5001",
+                      "name": "Sarjapur Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Lavelle Road",
+                    "count": 68,
+                    "url": "https://www.zomato.com/bangalore/lavelle-road-restaurants",
+                    "title": "Restaurants in Lavelle Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5103",
+                      "name": "Lavelle Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Malleshwaram",
+                    "count": 313,
+                    "url": "https://www.zomato.com/bangalore/malleshwaram-restaurants",
+                    "title": "Restaurants in Malleshwaram",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5203",
+                      "name": "Malleshwaram",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "BTM",
+                    "count": 992,
+                    "url": "https://www.zomato.com/bangalore/btm-restaurants",
+                    "title": "Restaurants in BTM",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5009",
+                      "name": "BTM",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "MG Road",
+                    "count": 98,
+                    "url": "https://www.zomato.com/bangalore/mg-road-restaurants",
+                    "title": "Restaurants in MG Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5106",
+                      "name": "MG Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 4th Block",
+                    "count": 148,
+                    "url": "https://www.zomato.com/bangalore/koramangala-4th-block-restaurants",
+                    "title": "Restaurants in Koramangala 4th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162245",
+                      "name": "Koramangala 4th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Kalyan Nagar",
+                    "count": 292,
+                    "url": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants",
+                    "title": "Restaurants in Kalyan Nagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5314",
+                      "name": "Kalyan Nagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Electronic City",
+                    "count": 984,
+                    "url": "https://www.zomato.com/bangalore/electronic-city-restaurants",
+                    "title": "Restaurants in Electronic City",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5010",
+                      "name": "Electronic City",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Bannerghatta Road",
+                    "count": 621,
+                    "url": "https://www.zomato.com/bangalore/bannerghatta-road-restaurants",
+                    "title": "Restaurants in Bannerghatta Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5008",
+                      "name": "Bannerghatta Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Bellandur",
+                    "count": 483,
+                    "url": "https://www.zomato.com/bangalore/bellandur-restaurants",
+                    "title": "Restaurants in Bellandur",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5015",
+                      "name": "Bellandur",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 7th Block",
+                    "count": 169,
+                    "url": "https://www.zomato.com/bangalore/koramangala-7th-block-restaurants",
+                    "title": "Restaurants in Koramangala 7th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162248",
+                      "name": "Koramangala 7th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "New BEL Road",
+                    "count": 424,
+                    "url": "https://www.zomato.com/bangalore/new-bel-road-restaurants",
+                    "title": "Restaurants in New BEL Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5309",
+                      "name": "New BEL Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Residency Road",
+                    "count": 91,
+                    "url": "https://www.zomato.com/bangalore/residency-road-restaurants",
+                    "title": "Restaurants in Residency Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5108",
+                      "name": "Residency Road",
+                      "city": 4
+                    }
+                  }
+                ],
+                "active_restaurants": 19844,
+                "should_show_general_app_download_banner": true,
+                "currency_details": {
+                  "currency": "₹",
+                  "currency_affix": "prefix"
+                },
+                "nu_voucher_data": [],
+                "is_app_only_city": true,
+                "has_gold_available": {
+                  "isBannerEnabled": true,
+                  "status": "active"
+                },
+                "search100": false
+              }
+            }
+          }
+        },
+        {
+          "basic_info": {
+            "id": "859357",
+            "name": "Himajanr",
+            "username": "himaja_nr",
+            "bio": "There is no sincere LOVE than the LOVE of FOOD.\nInstagram: @thecurious_appetite\nmail: himajanr@gmail.com",
+            "website_safe_link": "https://www.zomato.com/redirect?u=&t=dbba0b66ead7e10ad7971f95ea8713ef&g=user-profile-website",
+            "website_link": "",
+            "beenthere_count": 425,
+            "bookmarks_count": 96,
+            "photos_count": 2885,
+            "foodie_level": 13,
+            "foodie_rank_text": "Connoisseur",
+            "followers_count": 5437,
+            "is_followed": false,
+            "is_verified": 0,
+            "reviews_count": 201,
+            "blog_posts_count": 0,
+            "profile_picture": "https://b.zmtcdn.com/data/user_profile_pictures/73e/6a59bea049a527bf1f947d1859c9773e.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+            "profile_url": "https://www.zomato.com/himaja_nr",
+            "lives_in": {
+              "entity_type": "city",
+              "entity_id": 4,
+              "group": "",
+              "landmark": "",
+              "near-me": "",
+              "subzone": "",
+              "zone": "",
+              "country": 1,
+              "country_name": "India",
+              "city_data": {
+                "id": 4,
+                "name": "Bengaluru",
+                "urls": {
+                  "collections": {
+                    "featured": "https://www.zomato.com/bangalore/collections?tab=featured"
+                  },
+                  "info": "https://www.zomato.com/bangalore"
+                },
+                "has_tablebooking": true,
+                "has_zomaland": false,
+                "is_zland_ticket_purchasable": false,
+                "has_order": true,
+                "show_google_banners": false,
+                "nearby_localities": [
+                  {
+                    "name": "Indiranagar",
+                    "count": 658,
+                    "url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+                    "title": "Restaurants in Indiranagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5413",
+                      "name": "Indiranagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Marathahalli",
+                    "count": 962,
+                    "url": "https://www.zomato.com/bangalore/marathahalli-restaurants",
+                    "title": "Restaurants in Marathahalli",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5404",
+                      "name": "Marathahalli",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Whitefield",
+                    "count": 1233,
+                    "url": "https://www.zomato.com/bangalore/whitefield-restaurants",
+                    "title": "Restaurants in Whitefield",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5401",
+                      "name": "Whitefield",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 5th Block",
+                    "count": 316,
+                    "url": "https://www.zomato.com/bangalore/koramangala-5th-block-restaurants",
+                    "title": "Restaurants in Koramangala 5th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162246",
+                      "name": "Koramangala 5th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "HSR",
+                    "count": 878,
+                    "url": "https://www.zomato.com/bangalore/hsr-restaurants",
+                    "title": "Restaurants in HSR",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5007",
+                      "name": "HSR",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Jayanagar",
+                    "count": 495,
+                    "url": "https://www.zomato.com/bangalore/jayanagar-restaurants",
+                    "title": "Restaurants in Jayanagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5011",
+                      "name": "Jayanagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "JP Nagar",
+                    "count": 662,
+                    "url": "https://www.zomato.com/bangalore/jp-nagar-restaurants",
+                    "title": "Restaurants in JP Nagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5004",
+                      "name": "JP Nagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Sarjapur Road",
+                    "count": 469,
+                    "url": "https://www.zomato.com/bangalore/sarjapur-road-restaurants",
+                    "title": "Restaurants in Sarjapur Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5001",
+                      "name": "Sarjapur Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Lavelle Road",
+                    "count": 68,
+                    "url": "https://www.zomato.com/bangalore/lavelle-road-restaurants",
+                    "title": "Restaurants in Lavelle Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5103",
+                      "name": "Lavelle Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Malleshwaram",
+                    "count": 313,
+                    "url": "https://www.zomato.com/bangalore/malleshwaram-restaurants",
+                    "title": "Restaurants in Malleshwaram",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5203",
+                      "name": "Malleshwaram",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "BTM",
+                    "count": 992,
+                    "url": "https://www.zomato.com/bangalore/btm-restaurants",
+                    "title": "Restaurants in BTM",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5009",
+                      "name": "BTM",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "MG Road",
+                    "count": 98,
+                    "url": "https://www.zomato.com/bangalore/mg-road-restaurants",
+                    "title": "Restaurants in MG Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5106",
+                      "name": "MG Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 4th Block",
+                    "count": 148,
+                    "url": "https://www.zomato.com/bangalore/koramangala-4th-block-restaurants",
+                    "title": "Restaurants in Koramangala 4th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162245",
+                      "name": "Koramangala 4th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Kalyan Nagar",
+                    "count": 292,
+                    "url": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants",
+                    "title": "Restaurants in Kalyan Nagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5314",
+                      "name": "Kalyan Nagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Electronic City",
+                    "count": 984,
+                    "url": "https://www.zomato.com/bangalore/electronic-city-restaurants",
+                    "title": "Restaurants in Electronic City",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5010",
+                      "name": "Electronic City",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Bannerghatta Road",
+                    "count": 621,
+                    "url": "https://www.zomato.com/bangalore/bannerghatta-road-restaurants",
+                    "title": "Restaurants in Bannerghatta Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5008",
+                      "name": "Bannerghatta Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Bellandur",
+                    "count": 483,
+                    "url": "https://www.zomato.com/bangalore/bellandur-restaurants",
+                    "title": "Restaurants in Bellandur",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5015",
+                      "name": "Bellandur",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 7th Block",
+                    "count": 169,
+                    "url": "https://www.zomato.com/bangalore/koramangala-7th-block-restaurants",
+                    "title": "Restaurants in Koramangala 7th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162248",
+                      "name": "Koramangala 7th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "New BEL Road",
+                    "count": 424,
+                    "url": "https://www.zomato.com/bangalore/new-bel-road-restaurants",
+                    "title": "Restaurants in New BEL Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5309",
+                      "name": "New BEL Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Residency Road",
+                    "count": 91,
+                    "url": "https://www.zomato.com/bangalore/residency-road-restaurants",
+                    "title": "Restaurants in Residency Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5108",
+                      "name": "Residency Road",
+                      "city": 4
+                    }
+                  }
+                ],
+                "active_restaurants": 19844,
+                "should_show_general_app_download_banner": true,
+                "currency_details": {
+                  "currency": "₹",
+                  "currency_affix": "prefix"
+                },
+                "nu_voucher_data": [],
+                "is_app_only_city": true,
+                "has_gold_available": {
+                  "isBannerEnabled": true,
+                  "status": "active"
+                },
+                "search100": false
+              }
+            }
+          }
+        },
+        {
+          "basic_info": {
+            "id": "32722142",
+            "name": "J Arun Prakash",
+            "username": "APJP",
+            "bio": "A Hungry Foodie Traveller | #SouthEastAsian #Italian cuisine | Insta #apjp | J.Arun.Prakash@gmail.com | Blog - http://apjp.winkl.co/",
+            "website_safe_link": "https://www.zomato.com/redirect?u=&t=dbba0b66ead7e10ad7971f95ea8713ef&g=user-profile-website",
+            "website_link": "",
+            "beenthere_count": 439,
+            "bookmarks_count": 655,
+            "photos_count": 4624,
+            "foodie_level": 13,
+            "foodie_rank_text": "Connoisseur",
+            "followers_count": 3290,
+            "is_followed": false,
+            "is_verified": 0,
+            "reviews_count": 329,
+            "blog_posts_count": 0,
+            "profile_picture": "https://b.zmtcdn.com/data/user_profile_pictures/1b1/1f0260512d41b2bd1ef99f65936a21b1.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+            "profile_url": "https://www.zomato.com/APJP",
+            "lives_in": {
+              "entity_type": "city",
+              "entity_id": 4,
+              "group": "",
+              "landmark": "",
+              "near-me": "",
+              "subzone": "",
+              "zone": "",
+              "country": 1,
+              "country_name": "India",
+              "city_data": {
+                "id": 4,
+                "name": "Bengaluru",
+                "urls": {
+                  "collections": {
+                    "featured": "https://www.zomato.com/bangalore/collections?tab=featured"
+                  },
+                  "info": "https://www.zomato.com/bangalore"
+                },
+                "has_tablebooking": true,
+                "has_zomaland": false,
+                "is_zland_ticket_purchasable": false,
+                "has_order": true,
+                "show_google_banners": false,
+                "nearby_localities": [
+                  {
+                    "name": "Indiranagar",
+                    "count": 658,
+                    "url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+                    "title": "Restaurants in Indiranagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5413",
+                      "name": "Indiranagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Marathahalli",
+                    "count": 962,
+                    "url": "https://www.zomato.com/bangalore/marathahalli-restaurants",
+                    "title": "Restaurants in Marathahalli",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5404",
+                      "name": "Marathahalli",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Whitefield",
+                    "count": 1233,
+                    "url": "https://www.zomato.com/bangalore/whitefield-restaurants",
+                    "title": "Restaurants in Whitefield",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5401",
+                      "name": "Whitefield",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 5th Block",
+                    "count": 316,
+                    "url": "https://www.zomato.com/bangalore/koramangala-5th-block-restaurants",
+                    "title": "Restaurants in Koramangala 5th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162246",
+                      "name": "Koramangala 5th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "HSR",
+                    "count": 878,
+                    "url": "https://www.zomato.com/bangalore/hsr-restaurants",
+                    "title": "Restaurants in HSR",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5007",
+                      "name": "HSR",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Jayanagar",
+                    "count": 495,
+                    "url": "https://www.zomato.com/bangalore/jayanagar-restaurants",
+                    "title": "Restaurants in Jayanagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5011",
+                      "name": "Jayanagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "JP Nagar",
+                    "count": 662,
+                    "url": "https://www.zomato.com/bangalore/jp-nagar-restaurants",
+                    "title": "Restaurants in JP Nagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5004",
+                      "name": "JP Nagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Sarjapur Road",
+                    "count": 469,
+                    "url": "https://www.zomato.com/bangalore/sarjapur-road-restaurants",
+                    "title": "Restaurants in Sarjapur Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5001",
+                      "name": "Sarjapur Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Lavelle Road",
+                    "count": 68,
+                    "url": "https://www.zomato.com/bangalore/lavelle-road-restaurants",
+                    "title": "Restaurants in Lavelle Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5103",
+                      "name": "Lavelle Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Malleshwaram",
+                    "count": 313,
+                    "url": "https://www.zomato.com/bangalore/malleshwaram-restaurants",
+                    "title": "Restaurants in Malleshwaram",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5203",
+                      "name": "Malleshwaram",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "BTM",
+                    "count": 992,
+                    "url": "https://www.zomato.com/bangalore/btm-restaurants",
+                    "title": "Restaurants in BTM",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5009",
+                      "name": "BTM",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "MG Road",
+                    "count": 98,
+                    "url": "https://www.zomato.com/bangalore/mg-road-restaurants",
+                    "title": "Restaurants in MG Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5106",
+                      "name": "MG Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 4th Block",
+                    "count": 148,
+                    "url": "https://www.zomato.com/bangalore/koramangala-4th-block-restaurants",
+                    "title": "Restaurants in Koramangala 4th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162245",
+                      "name": "Koramangala 4th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Kalyan Nagar",
+                    "count": 292,
+                    "url": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants",
+                    "title": "Restaurants in Kalyan Nagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5314",
+                      "name": "Kalyan Nagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Electronic City",
+                    "count": 984,
+                    "url": "https://www.zomato.com/bangalore/electronic-city-restaurants",
+                    "title": "Restaurants in Electronic City",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5010",
+                      "name": "Electronic City",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Bannerghatta Road",
+                    "count": 621,
+                    "url": "https://www.zomato.com/bangalore/bannerghatta-road-restaurants",
+                    "title": "Restaurants in Bannerghatta Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5008",
+                      "name": "Bannerghatta Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Bellandur",
+                    "count": 483,
+                    "url": "https://www.zomato.com/bangalore/bellandur-restaurants",
+                    "title": "Restaurants in Bellandur",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5015",
+                      "name": "Bellandur",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 7th Block",
+                    "count": 169,
+                    "url": "https://www.zomato.com/bangalore/koramangala-7th-block-restaurants",
+                    "title": "Restaurants in Koramangala 7th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162248",
+                      "name": "Koramangala 7th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "New BEL Road",
+                    "count": 424,
+                    "url": "https://www.zomato.com/bangalore/new-bel-road-restaurants",
+                    "title": "Restaurants in New BEL Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5309",
+                      "name": "New BEL Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Residency Road",
+                    "count": 91,
+                    "url": "https://www.zomato.com/bangalore/residency-road-restaurants",
+                    "title": "Restaurants in Residency Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5108",
+                      "name": "Residency Road",
+                      "city": 4
+                    }
+                  }
+                ],
+                "active_restaurants": 19844,
+                "should_show_general_app_download_banner": true,
+                "currency_details": {
+                  "currency": "₹",
+                  "currency_affix": "prefix"
+                },
+                "nu_voucher_data": [],
+                "is_app_only_city": true,
+                "has_gold_available": {
+                  "isBannerEnabled": true,
+                  "status": "active"
+                },
+                "search100": false
+              }
+            }
+          }
+        },
+        {
+          "basic_info": {
+            "id": "35110826",
+            "name": "Neha Nagpal",
+            "username": "nehalovestoeat",
+            "bio": "Instagram: @nehalovestoeat",
+            "website_safe_link": "https://www.zomato.com/redirect?u=&t=dbba0b66ead7e10ad7971f95ea8713ef&g=user-profile-website",
+            "website_link": "",
+            "beenthere_count": 349,
+            "bookmarks_count": 0,
+            "photos_count": 2428,
+            "foodie_level": 13,
+            "foodie_rank_text": "Connoisseur",
+            "followers_count": 2654,
+            "is_followed": false,
+            "is_verified": 0,
+            "reviews_count": 315,
+            "blog_posts_count": 0,
+            "profile_picture": "https://b.zmtcdn.com/data/user_profile_pictures/83d/5204629f295d2897d98993a2a0d9e83d.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+            "profile_url": "https://www.zomato.com/nehalovestoeat",
+            "lives_in": {
+              "entity_type": "city",
+              "entity_id": 4,
+              "group": "",
+              "landmark": "",
+              "near-me": "",
+              "subzone": "",
+              "zone": "",
+              "country": 1,
+              "country_name": "India",
+              "city_data": {
+                "id": 4,
+                "name": "Bengaluru",
+                "urls": {
+                  "collections": {
+                    "featured": "https://www.zomato.com/bangalore/collections?tab=featured"
+                  },
+                  "info": "https://www.zomato.com/bangalore"
+                },
+                "has_tablebooking": true,
+                "has_zomaland": false,
+                "is_zland_ticket_purchasable": false,
+                "has_order": true,
+                "show_google_banners": false,
+                "nearby_localities": [
+                  {
+                    "name": "Indiranagar",
+                    "count": 658,
+                    "url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+                    "title": "Restaurants in Indiranagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5413",
+                      "name": "Indiranagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Marathahalli",
+                    "count": 962,
+                    "url": "https://www.zomato.com/bangalore/marathahalli-restaurants",
+                    "title": "Restaurants in Marathahalli",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5404",
+                      "name": "Marathahalli",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Whitefield",
+                    "count": 1233,
+                    "url": "https://www.zomato.com/bangalore/whitefield-restaurants",
+                    "title": "Restaurants in Whitefield",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5401",
+                      "name": "Whitefield",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 5th Block",
+                    "count": 316,
+                    "url": "https://www.zomato.com/bangalore/koramangala-5th-block-restaurants",
+                    "title": "Restaurants in Koramangala 5th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162246",
+                      "name": "Koramangala 5th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "HSR",
+                    "count": 878,
+                    "url": "https://www.zomato.com/bangalore/hsr-restaurants",
+                    "title": "Restaurants in HSR",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5007",
+                      "name": "HSR",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Jayanagar",
+                    "count": 495,
+                    "url": "https://www.zomato.com/bangalore/jayanagar-restaurants",
+                    "title": "Restaurants in Jayanagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5011",
+                      "name": "Jayanagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "JP Nagar",
+                    "count": 662,
+                    "url": "https://www.zomato.com/bangalore/jp-nagar-restaurants",
+                    "title": "Restaurants in JP Nagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5004",
+                      "name": "JP Nagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Sarjapur Road",
+                    "count": 469,
+                    "url": "https://www.zomato.com/bangalore/sarjapur-road-restaurants",
+                    "title": "Restaurants in Sarjapur Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5001",
+                      "name": "Sarjapur Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Lavelle Road",
+                    "count": 68,
+                    "url": "https://www.zomato.com/bangalore/lavelle-road-restaurants",
+                    "title": "Restaurants in Lavelle Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5103",
+                      "name": "Lavelle Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Malleshwaram",
+                    "count": 313,
+                    "url": "https://www.zomato.com/bangalore/malleshwaram-restaurants",
+                    "title": "Restaurants in Malleshwaram",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5203",
+                      "name": "Malleshwaram",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "BTM",
+                    "count": 992,
+                    "url": "https://www.zomato.com/bangalore/btm-restaurants",
+                    "title": "Restaurants in BTM",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5009",
+                      "name": "BTM",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "MG Road",
+                    "count": 98,
+                    "url": "https://www.zomato.com/bangalore/mg-road-restaurants",
+                    "title": "Restaurants in MG Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5106",
+                      "name": "MG Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 4th Block",
+                    "count": 148,
+                    "url": "https://www.zomato.com/bangalore/koramangala-4th-block-restaurants",
+                    "title": "Restaurants in Koramangala 4th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162245",
+                      "name": "Koramangala 4th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Kalyan Nagar",
+                    "count": 292,
+                    "url": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants",
+                    "title": "Restaurants in Kalyan Nagar",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5314",
+                      "name": "Kalyan Nagar",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Electronic City",
+                    "count": 984,
+                    "url": "https://www.zomato.com/bangalore/electronic-city-restaurants",
+                    "title": "Restaurants in Electronic City",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5010",
+                      "name": "Electronic City",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Bannerghatta Road",
+                    "count": 621,
+                    "url": "https://www.zomato.com/bangalore/bannerghatta-road-restaurants",
+                    "title": "Restaurants in Bannerghatta Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5008",
+                      "name": "Bannerghatta Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Bellandur",
+                    "count": 483,
+                    "url": "https://www.zomato.com/bangalore/bellandur-restaurants",
+                    "title": "Restaurants in Bellandur",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5015",
+                      "name": "Bellandur",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Koramangala 7th Block",
+                    "count": 169,
+                    "url": "https://www.zomato.com/bangalore/koramangala-7th-block-restaurants",
+                    "title": "Restaurants in Koramangala 7th Block",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "162248",
+                      "name": "Koramangala 7th Block",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "New BEL Road",
+                    "count": 424,
+                    "url": "https://www.zomato.com/bangalore/new-bel-road-restaurants",
+                    "title": "Restaurants in New BEL Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5309",
+                      "name": "New BEL Road",
+                      "city": 4
+                    }
+                  },
+                  {
+                    "name": "Residency Road",
+                    "count": 91,
+                    "url": "https://www.zomato.com/bangalore/residency-road-restaurants",
+                    "title": "Restaurants in Residency Road",
+                    "subzone": {
+                      "entity_type": "subzone",
+                      "entity_id": "5108",
+                      "name": "Residency Road",
+                      "city": 4
+                    }
+                  }
+                ],
+                "active_restaurants": 19844,
+                "should_show_general_app_download_banner": true,
+                "currency_details": {
+                  "currency": "₹",
+                  "currency_affix": "prefix"
+                },
+                "nu_voucher_data": [],
+                "is_app_only_city": true,
+                "has_gold_available": {
+                  "isBannerEnabled": true,
+                  "status": "active"
+                },
+                "search100": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    "reviews_data": [
+      {
+        "name": "Popular",
+        "url": "https://www.zomato.com/webapi/handlers/Restaurants/index.php?res_id=19092616&type=reviews-top",
+        "total_count": 74,
+        "count": 6,
+        "reviews": [
+          "44390671",
+          "44372848",
+          "44349116",
+          "44345385",
+          "44325263",
+          "44289218"
+        ]
+      },
+      {
+        "name": "Following",
+        "url": "https://www.zomato.com/webapi/handlers/Restaurants/index.php?res_id=19092616&type=reviews-network",
+        "total_count": 0,
+        "count": 0,
+        "reviews": []
+      },
+      {
+        "name": "All",
+        "url": "https://www.zomato.com/webapi/handlers/Restaurants/index.php?res_id=19092616&type=reviews",
+        "total_count": 421,
+        "count": 6,
+        "reviews": [
+          "44390671",
+          "44375445",
+          "44372848",
+          "44367731",
+          "44367209",
+          "44361883"
+        ]
+      },
+      {
+        "name": "Blogs",
+        "url": "https://www.zomato.com/webapi/handlers/Restaurants/index.php?res_id=19092616&type=reviews-blog",
+        "total_count": 2,
+        "count": 2,
+        "reviews": [
+          "44260583",
+          "44135130"
+        ]
+      }
+    ],
+    "events_data": {
+      "events": [],
+      "count": 0,
+      "total_count": 0,
+      "url": "https://www.zomato.com/webapi/handlers/Restaurants/index.php?res_id=19092616&type=events"
+    },
+    "dishes_text": "",
+    "reservation_recommended_text": "",
+    "resmap_data": {
+      "show_resmap": true,
+      "latitude": "12.9699990000",
+      "longitude": "77.6399170000"
+    },
+    "chain_url": [],
+    "nearby_restaurants": {
+      "heading": "Nearby restaurants",
+      "restaurants": [
+        {
+          "basic_info": {
+            "has_fake_review": false,
+            "res_id": "18752169",
+            "subzone_id": "5413",
+            "city_id": "4",
+            "city": "Bengaluru",
+            "country_id": 1,
+            "is_closed_flag": false,
+            "res_subzone_url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+            "short_link": "https://zoma.to/r/18752169",
+            "photos_tab_urls": {
+              "all": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/photos?category=all",
+              "food": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/photos?category=food",
+              "ambience": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/photos?category=ambience"
+            },
+            "urls": {
+              "INFO": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore",
+              "TABLE_RESERVATION": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/book",
+              "EVENTS": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/events",
+              "PHOTOS": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/photos?category=all",
+              "MENU": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/menu",
+              "MAPS": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/maps",
+              "REVIEWS": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/reviews",
+              "ORDER": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/order",
+              "DAILY_MENU": "https://www.zomato.com/bangalore/xo-belgian-waffle-indiranagar-bangalore/daily-menu"
+            },
+            "is_dark_kitchen": false,
+            "is_seating_available": true,
+            "restaurant_address": "954, 12th Main Road, HAL 2nd Stage, Appareddipalya, Indiranagar, Bangalore",
+            "user_review_count": 164,
+            "hidden_reviewers_count": 58,
+            "wishlisters_count": 214,
+            "beenthere_count": 822,
+            "is_beenthere": false,
+            "is_bookmarked": false,
+            "is_open_now": true,
+            "openInAppURL": "http://zoma.to/r/18752169",
+            "phoneData": {
+              "phone_string": "+91 7019299769",
+              "isACD": false,
+              "isDirect": false,
+              "phone_string_dialer": "+917019299769",
+              "mobile_string": "+91 7019299769",
+              "mobile_string_display": "+91 7019299769",
+              "mobile_string_dialer": "+917019299769",
+              "mobile_string_display_dialer": "+917019299769",
+              "phone_string_available": 1,
+              "resinfo_phone_title": "XO Belgian Waffle, Indiranagar phone number",
+              "number_available": true,
+              "phone_no_label": "Phone number",
+              "showWhatsThis": false,
+              "acd_active_flag": 1,
+              "has_acd": 1,
+              "isd_code": "91",
+              "zm-restaurant-table-res-at": "Table reservations at XO Belgian Waffle, Bangalore"
+            },
+            "event_phone_data": [],
+            "name": "XO Belgian Waffle",
+            "subzone_name_verbose": "Indiranagar",
+            "timings_display": "10 AM to 1 AM",
+            "website": null,
+            "subzone_name": "Indiranagar",
+            "serves_veg_flag": 0,
+            "pure_veg_flag": 0,
+            "opening_soon_flag": 0,
+            "temp_closed_flag": 0,
+            "real_city": "Bangalore",
+            "rating": {
+              "aria-label": "Rated 4.4",
+              "level": "level-7",
+              "display": "4.4",
+              "votes_text": "164  votes"
+            },
+            "reviews_section_text": {
+              "title": "Trustworthy Reviews",
+              "image": "https://b.zmtcdn.com/data/reviews/6b223f5370720a9caa41c1b0c740fa0d1548235035.png?output-format=webp",
+              "description": "100% genuine reviews from real foodies based on real experiences",
+              "description_long": "Zomato rating is based on weighted average method of calculation that takes into account multiple factors such as votes, user credibility and local trends to come up with a score that you can rely on."
+            },
+            "res_rating_meta": {
+              "spam_reviews_text": "4 reviews have been removed for violating Zomato guidelines.",
+              "total_votes_text": "164 reviews",
+              "histogram": [
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "rating_text": "5 star",
+                  "value_text": "38%",
+                  "value": 38
+                },
+                {
+                  "rating": 4,
+                  "color": "5BA829",
+                  "rating_text": "4 star",
+                  "value_text": "32%",
+                  "value": 32
+                },
+                {
+                  "rating": 3,
+                  "color": "CDD614",
+                  "rating_text": "3 star",
+                  "value_text": "11%",
+                  "value": 11
+                },
+                {
+                  "rating": 2,
+                  "color": "FF7800",
+                  "rating_text": "2 star",
+                  "value_text": "9%",
+                  "value": 9
+                },
+                {
+                  "rating": 1,
+                  "color": "CB202D",
+                  "rating_text": "1 star",
+                  "value_text": "10%",
+                  "value": 10
+                }
+              ],
+              "rating_streak_heading": "Recent ratings trend",
+              "rating_streak": [
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1563291041
+                },
+                {
+                  "rating": 4,
+                  "color": "5BA829",
+                  "timestamp": 1563362072
+                },
+                {
+                  "rating": 2,
+                  "color": "FF7800",
+                  "timestamp": 1563780295
+                },
+                {
+                  "rating": 2,
+                  "color": "FF7800",
+                  "timestamp": 1563967729
+                },
+                {
+                  "rating": 3,
+                  "color": "CDD614",
+                  "timestamp": 1564142566
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1564292705
+                },
+                {
+                  "rating": 2,
+                  "color": "FF7800",
+                  "timestamp": 1564570950
+                },
+                {
+                  "rating": 4,
+                  "color": "5BA829",
+                  "timestamp": 1564885046
+                }
+              ]
+            },
+            "rating_streak_most_recent_title": "most recent",
+            "hasOrder": true,
+            "hasBooking": false,
+            "thumb": "https://b.zmtcdn.com/data/pictures/chains/8/18612348/bf58b67182ef7da7217cbb515b710588.jpg",
+            "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAQDAwQDAwQEBAQFBQQFBwsHBwYGBw4KCggLEA4RERAOEA8SFBoWEhMYEw8QFh8XGBsbHR0dERYgIh8cIhocHRz/2wBDAQUFBQcGBw0HBw0cEhASHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBz/wAARCAAyADIDAREAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAMEAQIIBQn/xAApEAABAwEHAwQDAAAAAAAAAAABAAIRAwQFCBNRUpESIUEUGDFCIqHw/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAcEQEAAgMBAQEAAAAAAAAAAAAAARECEhMDITH/2gAMAwEAAhEDEQA/AO/pGqBI1QJGqBI1QJGqBI1QJGqDh5mMouHemuM+jrGFrFLGGX/RZ1XyZfjEDTHQt6M5J6eL8PbPSsn1OSOrjBFM92J1bxQPxktb9f2t6HFr7y27E6J5uLjRAMhea3pjFGa2UexWx9VSM1eszJVBTtbmPgErJhlLNQ5zJLlE5FPLtDi10SVeMkoYdqVVudwv1bc10wVGrrjlCo2qXv7nsqiKJlbZRLvhPxNlWyFn5BZdqtVNoe09MrYwROSSjZ3Wh0lVGKMsl70Caot0g3B1fXmV20THpSRuD2+Wnzws0b0ehRwk3wxkQZUT5nRq/CVfT5+eEjyOio7B9fLnTB4VxgzdasuEe+aPg8LdU7LXtOvn+CzWW7PoHlM2jhdXJnLZtHCBls2jhAy2bRwgZbNo4QMtm0cIGWzaOEGyAgICAgICD//Z",
+            "disclaimer_data": [],
+            "is_pre_payment_booking_enabled": false,
+            "geolocation_data": {
+              "lat": "12.9701285007",
+              "long": "77.6398802921"
+            }
+          }
+        },
+        {
+          "basic_info": {
+            "has_fake_review": false,
+            "res_id": "51600",
+            "subzone_id": "5413",
+            "city_id": "4",
+            "city": "Bengaluru",
+            "country_id": 1,
+            "is_closed_flag": false,
+            "res_subzone_url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+            "short_link": "https://zoma.to/r/51600",
+            "photos_tab_urls": {
+              "all": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/photos?category=all",
+              "food": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/photos?category=food",
+              "ambience": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/photos?category=ambience"
+            },
+            "urls": {
+              "INFO": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar",
+              "TABLE_RESERVATION": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/book",
+              "EVENTS": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/events",
+              "PHOTOS": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/photos?category=all",
+              "MENU": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/menu",
+              "MAPS": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/maps",
+              "REVIEWS": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/reviews",
+              "ORDER": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/order",
+              "DAILY_MENU": "https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/daily-menu"
+            },
+            "is_dark_kitchen": false,
+            "is_seating_available": true,
+            "restaurant_address": "965, 12th Main, HAL 2nd Stage, Off 100 Feet Road, Indiranagar, Bangalore",
+            "user_review_count": 3069,
+            "hidden_reviewers_count": 1461,
+            "wishlisters_count": 5055,
+            "beenthere_count": 4587,
+            "is_beenthere": false,
+            "is_bookmarked": false,
+            "is_open_now": false,
+            "openInAppURL": "http://zoma.to/r/51600",
+            "phoneData": {
+              "phone_string": "080 41255175, 080 41107735",
+              "isACD": false,
+              "isDirect": false,
+              "phone_string_dialer": "+918041255175, +918041107735",
+              "mobile_string": "080 41255175: 080 41107735",
+              "mobile_string_display": "080 41255175, 080 41107735",
+              "mobile_string_dialer": "+918041255175: +918041107735",
+              "mobile_string_display_dialer": "+918041255175, +918041107735",
+              "phone_string_available": 1,
+              "resinfo_phone_title": "Phobidden Fruit, Indiranagar phone number",
+              "number_available": true,
+              "phone_no_label": "Phone Numbers",
+              "showWhatsThis": false,
+              "acd_active_flag": 1,
+              "has_acd": 1,
+              "isd_code": "91",
+              "zm-restaurant-table-res-at": "Table reservations at Phobidden Fruit, Bangalore"
+            },
+            "event_phone_data": [],
+            "known_for": "",
+            "name": "Phobidden Fruit",
+            "subzone_name_verbose": "Indiranagar",
+            "timings_display": "12 Noon to 3:30 PM, 7 PM to 11 PM",
+            "website": null,
+            "subzone_name": "Indiranagar",
+            "serves_veg_flag": 0,
+            "pure_veg_flag": 0,
+            "opening_soon_flag": 0,
+            "temp_closed_flag": 0,
+            "real_city": "Bangalore",
+            "rating": {
+              "aria-label": "Rated 4.4",
+              "level": "level-7",
+              "display": "4.4",
+              "votes_text": "3067  votes"
+            },
+            "reviews_section_text": {
+              "title": "Trustworthy Reviews",
+              "image": "https://b.zmtcdn.com/data/reviews/6b223f5370720a9caa41c1b0c740fa0d1548235035.png?output-format=webp",
+              "description": "100% genuine reviews from real foodies based on real experiences",
+              "description_long": "Zomato rating is based on weighted average method of calculation that takes into account multiple factors such as votes, user credibility and local trends to come up with a score that you can rely on."
+            },
+            "res_rating_meta": {
+              "spam_reviews_text": "47 reviews have been removed for violating Zomato guidelines.",
+              "total_votes_text": "3069 reviews",
+              "histogram": [
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "rating_text": "5 star",
+                  "value_text": "41%",
+                  "value": 41
+                },
+                {
+                  "rating": 4,
+                  "color": "5BA829",
+                  "rating_text": "4 star",
+                  "value_text": "47%",
+                  "value": 47
+                },
+                {
+                  "rating": 3,
+                  "color": "CDD614",
+                  "rating_text": "3 star",
+                  "value_text": "8%",
+                  "value": 8
+                },
+                {
+                  "rating": 2,
+                  "color": "FF7800",
+                  "rating_text": "2 star",
+                  "value_text": "2%",
+                  "value": 2
+                },
+                {
+                  "rating": 1,
+                  "color": "CB202D",
+                  "rating_text": "1 star",
+                  "value_text": "2%",
+                  "value": 2
+                }
+              ],
+              "rating_streak_heading": "Recent ratings trend",
+              "rating_streak": [
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1564925318
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1564926400
+                },
+                {
+                  "rating": 3,
+                  "color": "CDD614",
+                  "timestamp": 1564926424
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1564926584
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1564937204
+                },
+                {
+                  "rating": 3,
+                  "color": "CDD614",
+                  "timestamp": 1564980868
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1565167497
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1565170284
+                }
+              ]
+            },
+            "rating_streak_most_recent_title": "most recent",
+            "hasOrder": false,
+            "hasBooking": false,
+            "thumb": "https://b.zmtcdn.com/data/res_imagery/51600_RESTAURANT_1839bba00f60eb5d7f1d70111fdf6e94.JPG",
+            "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAQDAwQDAwQEBAQFBQQFBwsHBwYGBw4KCggLEA4RERAOEA8SFBoWEhMYEw8QFh8XGBsbHR0dERYgIh8cIhocHRz/2wBDAQUFBQcGBw0HBw0cEhASHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBz/wAARCAAyADIDAREAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAMEAQIIBQn/xAApEAABAwEHAwQDAAAAAAAAAAABAAIRAwQFCBNRUpESIUEUGDFCIqHw/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAcEQEAAgMBAQEAAAAAAAAAAAAAARECEhMDITH/2gAMAwEAAhEDEQA/AO/pGqBI1QJGqBI1QJGqBI1QJGqDh5mMouHemuM+jrGFrFLGGX/RZ1XyZfjEDTHQt6M5J6eL8PbPSsn1OSOrjBFM92J1bxQPxktb9f2t6HFr7y27E6J5uLjRAMhea3pjFGa2UexWx9VSM1eszJVBTtbmPgErJhlLNQ5zJLlE5FPLtDi10SVeMkoYdqVVudwv1bc10wVGrrjlCo2qXv7nsqiKJlbZRLvhPxNlWyFn5BZdqtVNoe09MrYwROSSjZ3Wh0lVGKMsl70Caot0g3B1fXmV20THpSRuD2+Wnzws0b0ehRwk3wxkQZUT5nRq/CVfT5+eEjyOio7B9fLnTB4VxgzdasuEe+aPg8LdU7LXtOvn+CzWW7PoHlM2jhdXJnLZtHCBls2jhAy2bRwgZbNo4QMtm0cIGWzaOEGyAgICAgICD//Z",
+            "disclaimer_data": [],
+            "is_pre_payment_booking_enabled": false,
+            "geolocation_data": {
+              "lat": "12.9700680571",
+              "long": "77.6396596804"
+            }
+          }
+        },
+        {
+          "basic_info": {
+            "has_fake_review": false,
+            "res_id": "18969414",
+            "subzone_id": "5413",
+            "city_id": "4",
+            "city": "Bengaluru",
+            "country_id": 1,
+            "is_closed_flag": false,
+            "res_subzone_url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+            "short_link": "https://zoma.to/r/18969414",
+            "photos_tab_urls": {
+              "all": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/photos?category=all",
+              "food": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/photos?category=food",
+              "ambience": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/photos?category=ambience"
+            },
+            "urls": {
+              "INFO": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore",
+              "TABLE_RESERVATION": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/book",
+              "EVENTS": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/events",
+              "PHOTOS": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/photos?category=all",
+              "MENU": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/menu",
+              "MAPS": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/maps",
+              "REVIEWS": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/reviews",
+              "ORDER": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/order",
+              "DAILY_MENU": "https://www.zomato.com/bangalore/sunnys-1-indiranagar-bangalore/daily-menu"
+            },
+            "is_dark_kitchen": false,
+            "is_seating_available": true,
+            "restaurant_address": "Shop 956, 12th Main Road, Off 100 Feet Road, Indiranagar, Bangalore",
+            "user_review_count": 127,
+            "hidden_reviewers_count": 95,
+            "wishlisters_count": 33,
+            "beenthere_count": 117,
+            "is_beenthere": false,
+            "is_bookmarked": false,
+            "is_open_now": false,
+            "openInAppURL": "http://zoma.to/r/18969414",
+            "phoneData": {
+              "phone_string": "+91 8025270777, +91 8043775912",
+              "isACD": false,
+              "isDirect": false,
+              "phone_string_dialer": "+918025270777, +918043775912",
+              "mobile_string": "+91 8025270777: +91 8043775912",
+              "mobile_string_display": "+91 8025270777, +91 8043775912",
+              "mobile_string_dialer": "+918025270777: +918043775912",
+              "mobile_string_display_dialer": "+918025270777, +918043775912",
+              "phone_string_available": 1,
+              "resinfo_phone_title": "Sunny's, Indiranagar phone number",
+              "number_available": true,
+              "phone_no_label": "Phone Numbers",
+              "showWhatsThis": false,
+              "acd_active_flag": 1,
+              "has_acd": 1,
+              "isd_code": "91",
+              "zm-restaurant-table-res-at": "Table reservations at Sunny&#039;s, Bangalore"
+            },
+            "event_phone_data": [],
+            "name": "Sunny's",
+            "subzone_name_verbose": "Indiranagar",
+            "timings_display": "12 Noon to 3 PM, 6 PM to 11 PM (Mon-Wed), 12 Noon to 11 PM (Thu-Sun)",
+            "website": null,
+            "subzone_name": "Indiranagar",
+            "serves_veg_flag": 0,
+            "pure_veg_flag": 0,
+            "opening_soon_flag": 0,
+            "temp_closed_flag": 0,
+            "real_city": "Bangalore",
+            "rating": {
+              "aria-label": "Rated 3.7",
+              "level": "level-6",
+              "display": "3.7",
+              "votes_text": "127  votes"
+            },
+            "reviews_section_text": {
+              "title": "Trustworthy Reviews",
+              "image": "https://b.zmtcdn.com/data/reviews/6b223f5370720a9caa41c1b0c740fa0d1548235035.png?output-format=webp",
+              "description": "100% genuine reviews from real foodies based on real experiences",
+              "description_long": "Zomato rating is based on weighted average method of calculation that takes into account multiple factors such as votes, user credibility and local trends to come up with a score that you can rely on."
+            },
+            "res_rating_meta": {
+              "spam_reviews_text": "8 reviews have been removed for violating Zomato guidelines.",
+              "total_votes_text": "127 reviews",
+              "histogram": [
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "rating_text": "5 star",
+                  "value_text": "67%",
+                  "value": 67
+                },
+                {
+                  "rating": 4,
+                  "color": "5BA829",
+                  "rating_text": "4 star",
+                  "value_text": "11%",
+                  "value": 11
+                },
+                {
+                  "rating": 3,
+                  "color": "CDD614",
+                  "rating_text": "3 star",
+                  "value_text": "9%",
+                  "value": 9
+                },
+                {
+                  "rating": 2,
+                  "color": "FF7800",
+                  "rating_text": "2 star",
+                  "value_text": "2%",
+                  "value": 2
+                },
+                {
+                  "rating": 1,
+                  "color": "CB202D",
+                  "rating_text": "1 star",
+                  "value_text": "11%",
+                  "value": 11
+                }
+              ],
+              "rating_streak_heading": "Recent ratings trend",
+              "rating_streak": [
+                {
+                  "rating": 1,
+                  "color": "CB202D",
+                  "timestamp": 1562844438
+                },
+                {
+                  "rating": 1,
+                  "color": "CB202D",
+                  "timestamp": 1563076347
+                },
+                {
+                  "rating": 4,
+                  "color": "5BA829",
+                  "timestamp": 1563099729
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1563165291
+                },
+                {
+                  "rating": 4,
+                  "color": "5BA829",
+                  "timestamp": 1564229839
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1564735497
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1564758399
+                },
+                {
+                  "rating": 3,
+                  "color": "CDD614",
+                  "timestamp": 1564933197
+                }
+              ]
+            },
+            "rating_streak_most_recent_title": "most recent",
+            "hasOrder": false,
+            "hasBooking": false,
+            "thumb": "https://b.zmtcdn.com/data/reviews_photos/508/b8bdc5b62dfcd28ff6f97690a4605508_1549290600.jpg",
+            "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAQDAwQDAwQEBAQFBQQFBwsHBwYGBw4KCggLEA4RERAOEA8SFBoWEhMYEw8QFh8XGBsbHR0dERYgIh8cIhocHRz/2wBDAQUFBQcGBw0HBw0cEhASHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBz/wAARCAAyADIDAREAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAMEAQIIBQn/xAApEAABAwEHAwQDAAAAAAAAAAABAAIRAwQFCBNRUpESIUEUGDFCIqHw/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAcEQEAAgMBAQEAAAAAAAAAAAAAARECEhMDITH/2gAMAwEAAhEDEQA/AO/pGqBI1QJGqBI1QJGqBI1QJGqDh5mMouHemuM+jrGFrFLGGX/RZ1XyZfjEDTHQt6M5J6eL8PbPSsn1OSOrjBFM92J1bxQPxktb9f2t6HFr7y27E6J5uLjRAMhea3pjFGa2UexWx9VSM1eszJVBTtbmPgErJhlLNQ5zJLlE5FPLtDi10SVeMkoYdqVVudwv1bc10wVGrrjlCo2qXv7nsqiKJlbZRLvhPxNlWyFn5BZdqtVNoe09MrYwROSSjZ3Wh0lVGKMsl70Caot0g3B1fXmV20THpSRuD2+Wnzws0b0ehRwk3wxkQZUT5nRq/CVfT5+eEjyOio7B9fLnTB4VxgzdasuEe+aPg8LdU7LXtOvn+CzWW7PoHlM2jhdXJnLZtHCBls2jhAy2bRwgZbNo4QMtm0cIGWzaOEGyAgICAgICD//Z",
+            "disclaimer_data": [],
+            "is_pre_payment_booking_enabled": false,
+            "geolocation_data": {
+              "lat": "12.9701637868",
+              "long": "77.6402058452"
+            }
+          }
+        },
+        {
+          "basic_info": {
+            "has_fake_review": false,
+            "res_id": "18567309",
+            "subzone_id": "5413",
+            "city_id": "4",
+            "city": "Bengaluru",
+            "country_id": 1,
+            "is_closed_flag": false,
+            "res_subzone_url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+            "short_link": "https://zoma.to/r/18567309",
+            "photos_tab_urls": {
+              "all": "https://www.zomato.com/bangalore/plan-b-indiranagar/photos?category=all",
+              "food": "https://www.zomato.com/bangalore/plan-b-indiranagar/photos?category=food",
+              "ambience": "https://www.zomato.com/bangalore/plan-b-indiranagar/photos?category=ambience"
+            },
+            "urls": {
+              "INFO": "https://www.zomato.com/bangalore/plan-b-indiranagar",
+              "TABLE_RESERVATION": "https://www.zomato.com/bangalore/plan-b-indiranagar/book",
+              "EVENTS": "https://www.zomato.com/bangalore/plan-b-indiranagar/events",
+              "PHOTOS": "https://www.zomato.com/bangalore/plan-b-indiranagar/photos?category=all",
+              "MENU": "https://www.zomato.com/bangalore/plan-b-indiranagar/menu",
+              "MAPS": "https://www.zomato.com/bangalore/plan-b-indiranagar/maps",
+              "REVIEWS": "https://www.zomato.com/bangalore/plan-b-indiranagar/reviews",
+              "ORDER": "https://www.zomato.com/bangalore/plan-b-indiranagar/order",
+              "DAILY_MENU": "https://www.zomato.com/bangalore/plan-b-indiranagar/daily-menu"
+            },
+            "is_dark_kitchen": false,
+            "is_seating_available": true,
+            "restaurant_address": "957, Near Gold's Gym, 12th Main, Off 100 Feet Road, Indiranagar, Bangalore",
+            "user_review_count": 1872,
+            "hidden_reviewers_count": 1365,
+            "wishlisters_count": 1289,
+            "beenthere_count": 10435,
+            "is_beenthere": false,
+            "is_bookmarked": false,
+            "is_open_now": true,
+            "openInAppURL": "http://zoma.to/r/18567309",
+            "phoneData": {
+              "phone_string": "+91 8880022737",
+              "isACD": false,
+              "isDirect": false,
+              "phone_string_dialer": "+918880022737",
+              "mobile_string": "+91 8880022737",
+              "mobile_string_display": "+91 8880022737",
+              "mobile_string_dialer": "+918880022737",
+              "mobile_string_display_dialer": "+918880022737",
+              "phone_string_available": 1,
+              "resinfo_phone_title": "Plan B, Indiranagar phone number",
+              "number_available": true,
+              "phone_no_label": "Phone number",
+              "showWhatsThis": false,
+              "acd_active_flag": 1,
+              "has_acd": 1,
+              "isd_code": "91",
+              "zm-restaurant-table-res-at": "Table reservations at Plan B, Bangalore"
+            },
+            "event_phone_data": [],
+            "name": "Plan B",
+            "subzone_name_verbose": "Indiranagar",
+            "timings_display": "12 Noon to 11:30 PM (Mon-Thu, Sun), 12 Noon to 1 AM (Fri-Sat)",
+            "website": null,
+            "subzone_name": "Indiranagar",
+            "serves_veg_flag": 0,
+            "pure_veg_flag": 0,
+            "opening_soon_flag": 0,
+            "temp_closed_flag": 0,
+            "real_city": "Bangalore",
+            "rating": {
+              "aria-label": "Rated 4.1",
+              "level": "level-7",
+              "display": "4.1",
+              "votes_text": "1871  votes"
+            },
+            "reviews_section_text": {
+              "title": "Trustworthy Reviews",
+              "image": "https://b.zmtcdn.com/data/reviews/6b223f5370720a9caa41c1b0c740fa0d1548235035.png?output-format=webp",
+              "description": "100% genuine reviews from real foodies based on real experiences",
+              "description_long": "Zomato rating is based on weighted average method of calculation that takes into account multiple factors such as votes, user credibility and local trends to come up with a score that you can rely on."
+            },
+            "res_rating_meta": {
+              "spam_reviews_text": "50 reviews have been removed for violating Zomato guidelines.",
+              "total_votes_text": "1872 reviews",
+              "histogram": [
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "rating_text": "5 star",
+                  "value_text": "49%",
+                  "value": 49
+                },
+                {
+                  "rating": 4,
+                  "color": "5BA829",
+                  "rating_text": "4 star",
+                  "value_text": "33%",
+                  "value": 33
+                },
+                {
+                  "rating": 3,
+                  "color": "CDD614",
+                  "rating_text": "3 star",
+                  "value_text": "10%",
+                  "value": 10
+                },
+                {
+                  "rating": 2,
+                  "color": "FF7800",
+                  "rating_text": "2 star",
+                  "value_text": "3%",
+                  "value": 3
+                },
+                {
+                  "rating": 1,
+                  "color": "CB202D",
+                  "rating_text": "1 star",
+                  "value_text": "5%",
+                  "value": 5
+                }
+              ],
+              "rating_streak_heading": "Recent ratings trend",
+              "rating_streak": [
+                {
+                  "rating": 3,
+                  "color": "CDD614",
+                  "timestamp": 1564843033
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1564859032
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1564938945
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1565003227
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1565007540
+                },
+                {
+                  "rating": 2,
+                  "color": "FF7800",
+                  "timestamp": 1565026828
+                },
+                {
+                  "rating": 4,
+                  "color": "5BA829",
+                  "timestamp": 1565037792
+                },
+                {
+                  "rating": 5,
+                  "color": "305D02",
+                  "timestamp": 1565102838
+                }
+              ]
+            },
+            "rating_streak_most_recent_title": "most recent",
+            "hasOrder": false,
+            "hasBooking": false,
+            "thumb": "https://b.zmtcdn.com/data/pictures/chains/3/51293/94fcc1b33e79e1d3097a930aff60d97f.jpg",
+            "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAQDAwQDAwQEBAQFBQQFBwsHBwYGBw4KCggLEA4RERAOEA8SFBoWEhMYEw8QFh8XGBsbHR0dERYgIh8cIhocHRz/2wBDAQUFBQcGBw0HBw0cEhASHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBz/wAARCAAyADIDAREAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAMEAQIIBQn/xAApEAABAwEHAwQDAAAAAAAAAAABAAIRAwQFCBNRUpESIUEUGDFCIqHw/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAcEQEAAgMBAQEAAAAAAAAAAAAAARECEhMDITH/2gAMAwEAAhEDEQA/AO/pGqBI1QJGqBI1QJGqBI1QJGqDh5mMouHemuM+jrGFrFLGGX/RZ1XyZfjEDTHQt6M5J6eL8PbPSsn1OSOrjBFM92J1bxQPxktb9f2t6HFr7y27E6J5uLjRAMhea3pjFGa2UexWx9VSM1eszJVBTtbmPgErJhlLNQ5zJLlE5FPLtDi10SVeMkoYdqVVudwv1bc10wVGrrjlCo2qXv7nsqiKJlbZRLvhPxNlWyFn5BZdqtVNoe09MrYwROSSjZ3Wh0lVGKMsl70Caot0g3B1fXmV20THpSRuD2+Wnzws0b0ehRwk3wxkQZUT5nRq/CVfT5+eEjyOio7B9fLnTB4VxgzdasuEe+aPg8LdU7LXtOvn+CzWW7PoHlM2jhdXJnLZtHCBls2jhAy2bRwgZbNo4QMtm0cIGWzaOEGyAgICAgICD//Z",
+            "disclaimer_data": [],
+            "is_pre_payment_booking_enabled": false,
+            "geolocation_data": {
+              "lat": "12.9701268671",
+              "long": "77.6402782649"
+            }
+          }
+        }
+      ]
+    },
+    "all_timings": [
+      {
+        "day": "Mon",
+        "time": "12noon – 1am",
+        "bold": false
+      },
+      {
+        "day": "Tue",
+        "time": "12noon – 1am",
+        "bold": false
+      },
+      {
+        "day": "Wed",
+        "time": "12noon – 1am",
+        "bold": true
+      },
+      {
+        "day": "Thu",
+        "time": "12noon – 1am",
+        "bold": false
+      },
+      {
+        "day": "Fri",
+        "time": "12noon – 1am",
+        "bold": false
+      },
+      {
+        "day": "Sat",
+        "time": "12noon – 1am",
+        "bold": false
+      },
+      {
+        "day": "Sun",
+        "time": "12noon – 1am",
+        "bold": false
+      }
+    ],
+    "group_url": [],
+    "recommenders": {
+      "data": [],
+      "total_count": 0,
+      "count": 0
+    },
+    "inactive_tooltip": "",
+    "duplicate_tooltip": "",
+    "closed_tooltip": "",
+    "establishmentData": {
+      "establishments": [
+        {
+          "title": "View all Bars in Bengaluru",
+          "est_url": "https://www.zomato.com/bangalore/bar",
+          "est_name": "Bar"
+        },
+        {
+          "title": "View all Casual Dining in Bengaluru",
+          "est_url": "https://www.zomato.com/bangalore/casual-dining",
+          "est_name": "Casual Dining"
+        }
+      ],
+      "establishment_string_mob": ""
+    },
+    "chef_details": [],
+    "buffet_details": [],
+    "brunch_data": [],
+    "highlights": [
+      {
+        "text": "Full Bar Available",
+        "icon": "available arrow zgreen",
+        "available": true
+      },
+      {
+        "text": "Nightlife",
+        "icon": "available arrow zgreen",
+        "available": true
+      },
+      {
+        "text": "Live Music",
+        "icon": "available arrow zgreen",
+        "available": true
+      },
+      {
+        "text": "Rooftop",
+        "icon": "available arrow zgreen",
+        "available": true
+      },
+      {
+        "text": "Smoking Area",
+        "icon": "available arrow zgreen",
+        "available": true
+      },
+      {
+        "text": "Indoor Seating",
+        "icon": "available arrow zgreen",
+        "available": true
+      }
+    ],
+    "collections": [
+      {
+        "id": "29",
+        "name": "Newly Opened",
+        "url": "https://www.zomato.com/bangalore/best-new-restaurants",
+        "image": "https://b.zmtcdn.com/data/collections/7bef8e84e64ccf5b728c77510b7d52ad_1535355701.jpg?output-format=webp",
+        "description": "The best new places in town",
+        "res_count": 21
+      },
+      {
+        "id": "294392",
+        "name": "Sneak Peek Bengaluru",
+        "url": "https://www.zomato.com/bangalore/sneak-peek-bengaluru",
+        "image": "https://b.zmtcdn.com/data/collections/b7555eb1e0e5bb7dc7e26ef6b893651f_1538046592.jpg?output-format=webp",
+        "description": "Know the HOW behind the WOW!",
+        "res_count": 41
+      }
+    ],
+    "halal_details": [],
+    "cft_data": {
+      "numeric_cft": {
+        "heading": "Average",
+        "text": " ₹1,200 for two people (approx.)",
+        "subtext": [
+          " with alcohol",
+          "Exclusive of applicable taxes and charges, if any"
+        ]
+      },
+      "non_numeric_cft": null,
+      "lunch_cft": null,
+      "breakfast_cft": null,
+      "payment_info": "<span itemprop=\"paymentAccepted\">Cash</span> and <span itemprop=\"paymentAccepted\" title=\"Cards accepted at Daddy\">Cards accepted</span><br><span>Digital payments accepted</span>",
+      "cost_beer": [],
+      "title_text": "The cost for two is computed as follows: 6 Beers + 2 High end appetizers. The actual cost you incur at a restaurant might change depending on your appetite, or with changes in restaurant menu prices. This assumes no use of the bar facility, except for places in the &quot;Go out for drinks&quot; section."
+    },
+    "promotions": [],
+    "o2_partner_info": null,
+    "ads_data": {
+      "url": "https://www.zomato.com/webapi/handlers/banners/index.php?type=tiles&entity_id=5413&entity_type=subzone&city_id=4&res_id=19092616&display_source=RESTAURANT",
+      "has_ads": true
+    },
+    "review_highlights": [
+      {
+        "tags": [
+          "Cocktails",
+          "Pizza",
+          "Wings",
+          "Brownie Chocolate",
+          "Beer",
+          "Dumplings",
+          "Butter Chicken"
+        ],
+        "score": 4,
+        "title": "Food",
+        "tag_title": "Top dishes people order",
+        "type": "food",
+        "score_level": "level-6"
+      },
+      {
+        "tags": [
+          "Courteous Staff",
+          "Friendly Staff",
+          "Prompt Service"
+        ],
+        "score": 4,
+        "title": "Service",
+        "tag_title": "People Liked",
+        "type": "service",
+        "score_level": "level-7"
+      },
+      {
+        "tags": [
+          "Decor",
+          "Rooftop Ambience",
+          "Rooftop Setting"
+        ],
+        "score": 4,
+        "title": "Look & Feel",
+        "tag_title": "LOOK & FEEL OF THIS PLACE",
+        "type": "ambiance",
+        "score_level": "level-7"
+      }
+    ],
+    "review_highlights_title": "Scores based on reviews",
+    "famous_reviewers": [
+      {
+        "basic_info": {
+          "id": "64504837",
+          "name": "Rutuja Sarode",
+          "username": "rutuja_sarode",
+          "bio": "#live_love_eat ❤️",
+          "website_safe_link": "https://www.zomato.com/redirect?u=&t=dbba0b66ead7e10ad7971f95ea8713ef&g=user-profile-website",
+          "website_link": "",
+          "beenthere_count": 116,
+          "bookmarks_count": 1,
+          "photos_count": 642,
+          "foodie_level": 10,
+          "foodie_rank_text": "Super Foodie",
+          "followers_count": 163,
+          "is_followed": false,
+          "is_verified": 0,
+          "reviews_count": 124,
+          "blog_posts_count": 0,
+          "profile_picture": "https://b.zmtcdn.com/data/user_profile_pictures/4fb/0c96daade0587f3fb164d6f368efc4fb.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+          "profile_url": "https://www.zomato.com/rutuja_sarode",
+          "lives_in": {
+            "entity_type": "city",
+            "entity_id": 14,
+            "group": "",
+            "landmark": "",
+            "near-me": "",
+            "subzone": "",
+            "zone": "",
+            "country": 1,
+            "country_name": "India",
+            "city_data": {
+              "id": 14,
+              "name": "Indore",
+              "urls": {
+                "collections": {
+                  "featured": "https://www.zomato.com/indore/collections?tab=featured"
+                },
+                "info": "https://www.zomato.com/indore"
+              },
+              "has_tablebooking": false,
+              "has_zomaland": false,
+              "is_zland_ticket_purchasable": false,
+              "has_order": true,
+              "show_google_banners": false,
+              "nearby_localities": [
+                {
+                  "name": "Vijay Nagar",
+                  "count": 727,
+                  "url": "https://www.zomato.com/indore/vijay-nagar-restaurants",
+                  "title": "Restaurants in Vijay Nagar",
+                  "subzone": "subzone_14101"
+                },
+                {
+                  "name": "New Palasia",
+                  "count": 162,
+                  "url": "https://www.zomato.com/indore/new-palasia-restaurants",
+                  "title": "Restaurants in New Palasia",
+                  "subzone": "subzone_14204"
+                },
+                {
+                  "name": "Old Palasia",
+                  "count": 183,
+                  "url": "https://www.zomato.com/indore/old-palasia-restaurants",
+                  "title": "Restaurants in Old Palasia",
+                  "subzone": "subzone_14202"
+                },
+                {
+                  "name": "Bhawar Kuan",
+                  "count": 206,
+                  "url": "https://www.zomato.com/indore/bhawar-kuan-restaurants",
+                  "title": "Restaurants in Bhawar Kuan",
+                  "subzone": "subzone_14302"
+                },
+                {
+                  "name": "Rau",
+                  "count": 69,
+                  "url": "https://www.zomato.com/indore/rau-restaurants",
+                  "title": "Restaurants in Rau",
+                  "subzone": "subzone_14308"
+                },
+                {
+                  "name": "By Pass Road (North)",
+                  "count": 107,
+                  "url": "https://www.zomato.com/indore/by-pass-road-north-restaurants",
+                  "title": "Restaurants in By Pass Road (North)",
+                  "subzone": "subzone_14105"
+                },
+                {
+                  "name": "South Tukoganj",
+                  "count": 71,
+                  "url": "https://www.zomato.com/indore/south-tukoganj-restaurants",
+                  "title": "Restaurants in South Tukoganj",
+                  "subzone": "subzone_14001"
+                },
+                {
+                  "name": "Sapna Sangeeta",
+                  "count": 79,
+                  "url": "https://www.zomato.com/indore/sapna-sangeeta-restaurants",
+                  "title": "Restaurants in Sapna Sangeeta",
+                  "subzone": "subzone_14305"
+                },
+                {
+                  "name": "RNT Marg",
+                  "count": 50,
+                  "url": "https://www.zomato.com/indore/rnt-marg-restaurants",
+                  "title": "Restaurants in RNT Marg",
+                  "subzone": "subzone_14000"
+                },
+                {
+                  "name": "By Pass Road (South)",
+                  "count": 14,
+                  "url": "https://www.zomato.com/indore/by-pass-road-south-restaurants",
+                  "title": "Restaurants in By Pass Road (South)",
+                  "subzone": "subzone_14311"
+                },
+                {
+                  "name": "Sarwate Bus Stand",
+                  "count": 35,
+                  "url": "https://www.zomato.com/indore/sarwate-bus-stand-restaurants",
+                  "title": "Restaurants in Sarwate Bus Stand",
+                  "subzone": "subzone_14005"
+                },
+                {
+                  "name": "Geeta Bhavan",
+                  "count": 63,
+                  "url": "https://www.zomato.com/indore/geeta-bhavan-restaurants",
+                  "title": "Restaurants in Geeta Bhavan",
+                  "subzone": "subzone_14203"
+                },
+                {
+                  "name": "YN Road",
+                  "count": 38,
+                  "url": "https://www.zomato.com/indore/yn-road-restaurants",
+                  "title": "Restaurants in YN Road",
+                  "subzone": "subzone_14012"
+                },
+                {
+                  "name": "HIG-LIG",
+                  "count": 125,
+                  "url": "https://www.zomato.com/indore/hig-lig-restaurants",
+                  "title": "Restaurants in HIG-LIG",
+                  "subzone": "subzone_14103"
+                },
+                {
+                  "name": "MR 10 Road",
+                  "count": 79,
+                  "url": "https://www.zomato.com/indore/mr-10-road-restaurants",
+                  "title": "Restaurants in MR 10 Road",
+                  "subzone": "subzone_72156"
+                },
+                {
+                  "name": "Rajendra Nagar",
+                  "count": 60,
+                  "url": "https://www.zomato.com/indore/rajendra-nagar-restaurants",
+                  "title": "Restaurants in Rajendra Nagar",
+                  "subzone": "subzone_14307"
+                },
+                {
+                  "name": "Khajrana",
+                  "count": 137,
+                  "url": "https://www.zomato.com/indore/khajrana-restaurants",
+                  "title": "Restaurants in Khajrana",
+                  "subzone": "subzone_72154"
+                },
+                {
+                  "name": "Sudama Nagar",
+                  "count": 95,
+                  "url": "https://www.zomato.com/indore/sudama-nagar-restaurants",
+                  "title": "Restaurants in Sudama Nagar",
+                  "subzone": "subzone_14306"
+                },
+                {
+                  "name": "Sarafa Bazaar",
+                  "count": 77,
+                  "url": "https://www.zomato.com/indore/sarafa-bazaar-restaurants",
+                  "title": "Restaurants in Sarafa Bazaar",
+                  "subzone": "subzone_14003"
+                },
+                {
+                  "name": "Annapurna Road",
+                  "count": 70,
+                  "url": "https://www.zomato.com/indore/annapurna-road-restaurants",
+                  "title": "Restaurants in Annapurna Road",
+                  "subzone": "subzone_14303"
+                }
+              ],
+              "active_restaurants": 2848,
+              "should_show_general_app_download_banner": true,
+              "currency_details": {
+                "currency": "₹",
+                "currency_affix": "prefix"
+              },
+              "nu_voucher_data": [],
+              "is_app_only_city": true,
+              "has_gold_available": {
+                "isBannerEnabled": true,
+                "status": "active"
+              },
+              "search100": false,
+              "featured_collections": {
+                "collection_ids": [],
+                "count": 0
+              }
+            }
+          }
+        }
+      },
+      {
+        "basic_info": {
+          "id": "3903891",
+          "name": "Safina",
+          "username": null,
+          "bio": "",
+          "website_safe_link": "https://www.zomato.com/redirect?u=&t=dbba0b66ead7e10ad7971f95ea8713ef&g=user-profile-website",
+          "website_link": "",
+          "beenthere_count": 80,
+          "bookmarks_count": 67,
+          "photos_count": 12,
+          "foodie_level": 4,
+          "foodie_rank_text": "Big Foodie",
+          "followers_count": 7,
+          "is_followed": false,
+          "is_verified": 0,
+          "reviews_count": 11,
+          "blog_posts_count": 0,
+          "profile_picture": "https://b.zmtcdn.com/images/user_avatars/wine_2x.png?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+          "profile_url": "https://www.zomato.com/users/safina-3903891",
+          "lives_in": {
+            "entity_type": "city",
+            "entity_id": 4,
+            "group": "",
+            "landmark": "",
+            "near-me": "",
+            "subzone": "",
+            "zone": "",
+            "country": 1,
+            "country_name": "India",
+            "city_data": {
+              "id": 4,
+              "name": "Bengaluru",
+              "urls": {
+                "collections": {
+                  "featured": "https://www.zomato.com/bangalore/collections?tab=featured"
+                },
+                "info": "https://www.zomato.com/bangalore"
+              },
+              "has_tablebooking": true,
+              "has_zomaland": false,
+              "is_zland_ticket_purchasable": false,
+              "has_order": true,
+              "show_google_banners": false,
+              "nearby_localities": [
+                {
+                  "name": "Indiranagar",
+                  "count": 658,
+                  "url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+                  "title": "Restaurants in Indiranagar",
+                  "subzone": "subzone_5413"
+                },
+                {
+                  "name": "Marathahalli",
+                  "count": 962,
+                  "url": "https://www.zomato.com/bangalore/marathahalli-restaurants",
+                  "title": "Restaurants in Marathahalli",
+                  "subzone": "subzone_5404"
+                },
+                {
+                  "name": "Whitefield",
+                  "count": 1233,
+                  "url": "https://www.zomato.com/bangalore/whitefield-restaurants",
+                  "title": "Restaurants in Whitefield",
+                  "subzone": "subzone_5401"
+                },
+                {
+                  "name": "Koramangala 5th Block",
+                  "count": 316,
+                  "url": "https://www.zomato.com/bangalore/koramangala-5th-block-restaurants",
+                  "title": "Restaurants in Koramangala 5th Block",
+                  "subzone": "subzone_162246"
+                },
+                {
+                  "name": "HSR",
+                  "count": 878,
+                  "url": "https://www.zomato.com/bangalore/hsr-restaurants",
+                  "title": "Restaurants in HSR",
+                  "subzone": "subzone_5007"
+                },
+                {
+                  "name": "Jayanagar",
+                  "count": 495,
+                  "url": "https://www.zomato.com/bangalore/jayanagar-restaurants",
+                  "title": "Restaurants in Jayanagar",
+                  "subzone": "subzone_5011"
+                },
+                {
+                  "name": "JP Nagar",
+                  "count": 662,
+                  "url": "https://www.zomato.com/bangalore/jp-nagar-restaurants",
+                  "title": "Restaurants in JP Nagar",
+                  "subzone": "subzone_5004"
+                },
+                {
+                  "name": "Sarjapur Road",
+                  "count": 469,
+                  "url": "https://www.zomato.com/bangalore/sarjapur-road-restaurants",
+                  "title": "Restaurants in Sarjapur Road",
+                  "subzone": "subzone_5001"
+                },
+                {
+                  "name": "Lavelle Road",
+                  "count": 68,
+                  "url": "https://www.zomato.com/bangalore/lavelle-road-restaurants",
+                  "title": "Restaurants in Lavelle Road",
+                  "subzone": "subzone_5103"
+                },
+                {
+                  "name": "Malleshwaram",
+                  "count": 313,
+                  "url": "https://www.zomato.com/bangalore/malleshwaram-restaurants",
+                  "title": "Restaurants in Malleshwaram",
+                  "subzone": "subzone_5203"
+                },
+                {
+                  "name": "BTM",
+                  "count": 992,
+                  "url": "https://www.zomato.com/bangalore/btm-restaurants",
+                  "title": "Restaurants in BTM",
+                  "subzone": "subzone_5009"
+                },
+                {
+                  "name": "MG Road",
+                  "count": 98,
+                  "url": "https://www.zomato.com/bangalore/mg-road-restaurants",
+                  "title": "Restaurants in MG Road",
+                  "subzone": "subzone_5106"
+                },
+                {
+                  "name": "Koramangala 4th Block",
+                  "count": 148,
+                  "url": "https://www.zomato.com/bangalore/koramangala-4th-block-restaurants",
+                  "title": "Restaurants in Koramangala 4th Block",
+                  "subzone": "subzone_162245"
+                },
+                {
+                  "name": "Kalyan Nagar",
+                  "count": 292,
+                  "url": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants",
+                  "title": "Restaurants in Kalyan Nagar",
+                  "subzone": "subzone_5314"
+                },
+                {
+                  "name": "Electronic City",
+                  "count": 984,
+                  "url": "https://www.zomato.com/bangalore/electronic-city-restaurants",
+                  "title": "Restaurants in Electronic City",
+                  "subzone": "subzone_5010"
+                },
+                {
+                  "name": "Bannerghatta Road",
+                  "count": 621,
+                  "url": "https://www.zomato.com/bangalore/bannerghatta-road-restaurants",
+                  "title": "Restaurants in Bannerghatta Road",
+                  "subzone": "subzone_5008"
+                },
+                {
+                  "name": "Bellandur",
+                  "count": 483,
+                  "url": "https://www.zomato.com/bangalore/bellandur-restaurants",
+                  "title": "Restaurants in Bellandur",
+                  "subzone": "subzone_5015"
+                },
+                {
+                  "name": "Koramangala 7th Block",
+                  "count": 169,
+                  "url": "https://www.zomato.com/bangalore/koramangala-7th-block-restaurants",
+                  "title": "Restaurants in Koramangala 7th Block",
+                  "subzone": "subzone_162248"
+                },
+                {
+                  "name": "New BEL Road",
+                  "count": 424,
+                  "url": "https://www.zomato.com/bangalore/new-bel-road-restaurants",
+                  "title": "Restaurants in New BEL Road",
+                  "subzone": "subzone_5309"
+                },
+                {
+                  "name": "Residency Road",
+                  "count": 91,
+                  "url": "https://www.zomato.com/bangalore/residency-road-restaurants",
+                  "title": "Restaurants in Residency Road",
+                  "subzone": "subzone_5108"
+                }
+              ],
+              "active_restaurants": 19844,
+              "should_show_general_app_download_banner": true,
+              "currency_details": {
+                "currency": "₹",
+                "currency_affix": "prefix"
+              },
+              "nu_voucher_data": [],
+              "is_app_only_city": true,
+              "has_gold_available": {
+                "isBannerEnabled": true,
+                "status": "active"
+              },
+              "search100": false,
+              "featured_collections": {
+                "collection_ids": [],
+                "count": 0
+              }
+            }
+          }
+        }
+      },
+      {
+        "basic_info": {
+          "id": "48678640",
+          "name": "Cora Abigail Coutinho",
+          "username": "c4_2511",
+          "bio": "",
+          "website_safe_link": "https://www.zomato.com/redirect?u=&t=dbba0b66ead7e10ad7971f95ea8713ef&g=user-profile-website",
+          "website_link": "",
+          "beenthere_count": 129,
+          "bookmarks_count": 63,
+          "photos_count": 314,
+          "foodie_level": 8,
+          "foodie_rank_text": "Super Foodie",
+          "followers_count": 210,
+          "is_followed": false,
+          "is_verified": 0,
+          "reviews_count": 67,
+          "blog_posts_count": 0,
+          "profile_picture": "https://b.zmtcdn.com/data/user_profile_pictures/340/99ff18b29955f6b6284d2404b5008340.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+          "profile_url": "https://www.zomato.com/c4_2511",
+          "lives_in": {
+            "entity_type": "city",
+            "entity_id": 13,
+            "group": "",
+            "landmark": "",
+            "near-me": "",
+            "subzone": "",
+            "zone": "",
+            "country": 1,
+            "country_name": "India",
+            "city_data": {
+              "id": 13,
+              "name": "Goa",
+              "urls": {
+                "collections": {
+                  "featured": "https://www.zomato.com/goa/collections?tab=featured"
+                },
+                "info": "https://www.zomato.com/goa"
+              },
+              "has_tablebooking": false,
+              "has_zomaland": false,
+              "is_zland_ticket_purchasable": false,
+              "has_order": true,
+              "show_google_banners": false,
+              "nearby_localities": [
+                {
+                  "name": "Panaji",
+                  "count": 451,
+                  "url": "https://www.zomato.com/goa/panaji-restaurants",
+                  "title": "Restaurants in Panaji",
+                  "subzone": "subzone_91591"
+                },
+                {
+                  "name": "Anjuna",
+                  "count": 172,
+                  "url": "https://www.zomato.com/goa/anjuna-restaurants",
+                  "title": "Restaurants in Anjuna",
+                  "subzone": "subzone_91701"
+                },
+                {
+                  "name": "Candolim",
+                  "count": 253,
+                  "url": "https://www.zomato.com/goa/candolim-restaurants",
+                  "title": "Restaurants in Candolim",
+                  "subzone": "subzone_91671"
+                },
+                {
+                  "name": "Calangute",
+                  "count": 427,
+                  "url": "https://www.zomato.com/goa/calangute-restaurants",
+                  "title": "Restaurants in Calangute",
+                  "subzone": "subzone_91651"
+                },
+                {
+                  "name": "Baga",
+                  "count": 231,
+                  "url": "https://www.zomato.com/goa/baga-restaurants",
+                  "title": "Restaurants in Baga",
+                  "subzone": "subzone_91631"
+                },
+                {
+                  "name": "Vagator",
+                  "count": 132,
+                  "url": "https://www.zomato.com/goa/vagator-restaurants",
+                  "title": "Restaurants in Vagator",
+                  "subzone": "subzone_91691"
+                },
+                {
+                  "name": "Margao",
+                  "count": 272,
+                  "url": "https://www.zomato.com/goa/margao-restaurants",
+                  "title": "Restaurants in Margao",
+                  "subzone": "subzone_91751"
+                },
+                {
+                  "name": "Arambol",
+                  "count": 120,
+                  "url": "https://www.zomato.com/goa/arambol-restaurants",
+                  "title": "Restaurants in Arambol",
+                  "subzone": "subzone_91711"
+                },
+                {
+                  "name": "Cavelossim",
+                  "count": 85,
+                  "url": "https://www.zomato.com/goa/cavelossim-restaurants",
+                  "title": "Restaurants in Cavelossim",
+                  "subzone": "subzone_163284"
+                },
+                {
+                  "name": "Penha de Franca",
+                  "count": 115,
+                  "url": "https://www.zomato.com/goa/penha-de-franca-restaurants",
+                  "title": "Restaurants in Penha de Franca",
+                  "subzone": "subzone_91641"
+                },
+                {
+                  "name": "Benaulim",
+                  "count": 131,
+                  "url": "https://www.zomato.com/goa/benaulim-restaurants",
+                  "title": "Restaurants in Benaulim",
+                  "subzone": "subzone_91811"
+                },
+                {
+                  "name": "Colva",
+                  "count": 103,
+                  "url": "https://www.zomato.com/goa/colva-restaurants",
+                  "title": "Restaurants in Colva",
+                  "subzone": "subzone_91831"
+                },
+                {
+                  "name": "Nerul",
+                  "count": 28,
+                  "url": "https://www.zomato.com/goa/nerul-restaurants",
+                  "title": "Restaurants in Nerul",
+                  "subzone": "subzone_91681"
+                },
+                {
+                  "name": "Mapusa",
+                  "count": 147,
+                  "url": "https://www.zomato.com/goa/mapusa-restaurants",
+                  "title": "Restaurants in Mapusa",
+                  "subzone": "subzone_91601"
+                },
+                {
+                  "name": "Betalbatim",
+                  "count": 27,
+                  "url": "https://www.zomato.com/goa/betalbatim-restaurants",
+                  "title": "Restaurants in Betalbatim",
+                  "subzone": "subzone_91851"
+                },
+                {
+                  "name": "Bambolim",
+                  "count": 57,
+                  "url": "https://www.zomato.com/goa/bambolim-restaurants",
+                  "title": "Restaurants in Bambolim",
+                  "subzone": "subzone_91741"
+                },
+                {
+                  "name": "Palolem",
+                  "count": 113,
+                  "url": "https://www.zomato.com/goa/palolem-restaurants",
+                  "title": "Restaurants in Palolem",
+                  "subzone": "subzone_91841"
+                },
+                {
+                  "name": "Majorda",
+                  "count": 73,
+                  "url": "https://www.zomato.com/goa/majorda-restaurants",
+                  "title": "Restaurants in Majorda",
+                  "subzone": "subzone_91791"
+                },
+                {
+                  "name": "Assagao",
+                  "count": 28,
+                  "url": "https://www.zomato.com/goa/assagao-restaurants",
+                  "title": "Restaurants in Assagao",
+                  "subzone": "subzone_163351"
+                },
+                {
+                  "name": "Vasco",
+                  "count": 128,
+                  "url": "https://www.zomato.com/goa/vasco-restaurants",
+                  "title": "Restaurants in Vasco",
+                  "subzone": "subzone_91761"
+                }
+              ],
+              "active_restaurants": 3454,
+              "should_show_general_app_download_banner": true,
+              "currency_details": {
+                "currency": "₹",
+                "currency_affix": "prefix"
+              },
+              "nu_voucher_data": [],
+              "is_app_only_city": true,
+              "has_gold_available": {
+                "isBannerEnabled": false,
+                "status": 0
+              },
+              "search100": false,
+              "featured_collections": {
+                "collection_ids": [],
+                "count": 0
+              }
+            }
+          }
+        }
+      }
+    ],
+    "currentUserRating": 0,
+    "promotional_banners": [],
+    "table_reservation_data": {
+      "show_is_anniversary": false,
+      "show_is_birthday": false,
+      "show_is_firsttime": false,
+      "day_slots": {
+        "data": [
+          {
+            "day": "2019-08-07",
+            "time_slots": [
+              {
+                "status_text": "",
+                "value": "17:30:00",
+                "display_time": "5:30 PM"
+              }
+            ],
+            "min_party_size": 1,
+            "max_party_size": 20,
+            "show_contact_restaurant": true,
+            "booking_date_description": {
+              "weekday": "3",
+              "month": "08",
+              "day": "07"
+            }
+          },
+          {
+            "day": "2019-08-08",
+            "time_slots": [
+              {
+                "status_text": "",
+                "value": "12:00:00",
+                "display_time": "12:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "12:30:00",
+                "display_time": "12:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:00:00",
+                "display_time": "1:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:30:00",
+                "display_time": "1:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:00:00",
+                "display_time": "2:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:30:00",
+                "display_time": "2:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:00:00",
+                "display_time": "3:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:30:00",
+                "display_time": "3:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:00:00",
+                "display_time": "4:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:30:00",
+                "display_time": "4:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:00:00",
+                "display_time": "5:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:30:00",
+                "display_time": "5:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:00:00",
+                "display_time": "6:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:30:00",
+                "display_time": "6:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "19:00:00",
+                "display_time": "7:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "19:30:00",
+                "display_time": "7:30 PM"
+              }
+            ],
+            "min_party_size": 1,
+            "max_party_size": 20,
+            "show_contact_restaurant": true,
+            "booking_date_description": {
+              "weekday": "4",
+              "month": "08",
+              "day": "08"
+            }
+          },
+          {
+            "day": "2019-08-09",
+            "time_slots": [
+              {
+                "status_text": "",
+                "value": "12:00:00",
+                "display_time": "12:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "12:30:00",
+                "display_time": "12:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:00:00",
+                "display_time": "1:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:30:00",
+                "display_time": "1:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:00:00",
+                "display_time": "2:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:30:00",
+                "display_time": "2:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:00:00",
+                "display_time": "3:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:30:00",
+                "display_time": "3:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:00:00",
+                "display_time": "4:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:30:00",
+                "display_time": "4:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:00:00",
+                "display_time": "5:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:30:00",
+                "display_time": "5:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:30:00",
+                "display_time": "6:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "19:00:00",
+                "display_time": "7:00 PM"
+              }
+            ],
+            "min_party_size": 1,
+            "max_party_size": 20,
+            "show_contact_restaurant": true,
+            "booking_date_description": {
+              "weekday": "5",
+              "month": "08",
+              "day": "09"
+            }
+          },
+          {
+            "day": "2019-08-10",
+            "time_slots": [
+              {
+                "status_text": "",
+                "value": "12:00:00",
+                "display_time": "12:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "12:30:00",
+                "display_time": "12:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:00:00",
+                "display_time": "1:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:30:00",
+                "display_time": "1:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:00:00",
+                "display_time": "2:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:00:00",
+                "display_time": "3:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:30:00",
+                "display_time": "3:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:00:00",
+                "display_time": "4:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:30:00",
+                "display_time": "4:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:00:00",
+                "display_time": "5:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:30:00",
+                "display_time": "5:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:00:00",
+                "display_time": "6:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:30:00",
+                "display_time": "6:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "19:00:00",
+                "display_time": "7:00 PM"
+              }
+            ],
+            "min_party_size": 1,
+            "max_party_size": 20,
+            "show_contact_restaurant": true,
+            "booking_date_description": {
+              "weekday": "6",
+              "month": "08",
+              "day": "10"
+            }
+          },
+          {
+            "day": "2019-08-11",
+            "time_slots": [
+              {
+                "status_text": "",
+                "value": "12:00:00",
+                "display_time": "12:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "12:30:00",
+                "display_time": "12:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:00:00",
+                "display_time": "1:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:30:00",
+                "display_time": "1:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:00:00",
+                "display_time": "2:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:30:00",
+                "display_time": "2:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:00:00",
+                "display_time": "3:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:30:00",
+                "display_time": "3:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:00:00",
+                "display_time": "4:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:30:00",
+                "display_time": "4:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:00:00",
+                "display_time": "5:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:30:00",
+                "display_time": "5:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:00:00",
+                "display_time": "6:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:30:00",
+                "display_time": "6:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "19:00:00",
+                "display_time": "7:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "19:30:00",
+                "display_time": "7:30 PM"
+              }
+            ],
+            "min_party_size": 1,
+            "max_party_size": 20,
+            "show_contact_restaurant": true,
+            "booking_date_description": {
+              "weekday": "7",
+              "month": "08",
+              "day": "11"
+            }
+          },
+          {
+            "day": "2019-08-12",
+            "time_slots": [
+              {
+                "status_text": "",
+                "value": "12:00:00",
+                "display_time": "12:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "12:30:00",
+                "display_time": "12:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:00:00",
+                "display_time": "1:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:30:00",
+                "display_time": "1:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:00:00",
+                "display_time": "2:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:30:00",
+                "display_time": "2:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:00:00",
+                "display_time": "3:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:30:00",
+                "display_time": "3:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:00:00",
+                "display_time": "4:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:30:00",
+                "display_time": "4:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:00:00",
+                "display_time": "5:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:30:00",
+                "display_time": "5:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:00:00",
+                "display_time": "6:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:30:00",
+                "display_time": "6:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "19:00:00",
+                "display_time": "7:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "19:30:00",
+                "display_time": "7:30 PM"
+              }
+            ],
+            "min_party_size": 1,
+            "max_party_size": 20,
+            "show_contact_restaurant": true,
+            "booking_date_description": {
+              "weekday": "1",
+              "month": "08",
+              "day": "12"
+            }
+          },
+          {
+            "day": "2019-08-13",
+            "time_slots": [
+              {
+                "status_text": "",
+                "value": "12:00:00",
+                "display_time": "12:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "12:30:00",
+                "display_time": "12:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:00:00",
+                "display_time": "1:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "13:30:00",
+                "display_time": "1:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:00:00",
+                "display_time": "2:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "14:30:00",
+                "display_time": "2:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:00:00",
+                "display_time": "3:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "15:30:00",
+                "display_time": "3:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:00:00",
+                "display_time": "4:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "16:30:00",
+                "display_time": "4:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:00:00",
+                "display_time": "5:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "17:30:00",
+                "display_time": "5:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:00:00",
+                "display_time": "6:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "18:30:00",
+                "display_time": "6:30 PM"
+              },
+              {
+                "status_text": "",
+                "value": "19:00:00",
+                "display_time": "7:00 PM"
+              },
+              {
+                "status_text": "",
+                "value": "19:30:00",
+                "display_time": "7:30 PM"
+              }
+            ],
+            "min_party_size": 1,
+            "max_party_size": 20,
+            "show_contact_restaurant": true,
+            "booking_date_description": {
+              "weekday": "2",
+              "month": "08",
+              "day": "13"
+            }
+          }
+        ],
+        "count": 7,
+        "total_count": 7
+      },
+      "valid_new_user_display_changes": true,
+      "type": "medio",
+      "restaurant_notice": "Holding a table post the booking time is not possible on Friday, Saturday and Sunday",
+      "phone_verification_required": true,
+      "prefill": {
+        "user": {
+          "first_name": "MC",
+          "last_name": "Arvind",
+          "email": "arvindeminem2@gmail.com",
+          "phone": "8197194665"
+        },
+        "party_size": 2,
+        "day": "2019-08-07",
+        "time": "17:30:00"
+      }
+    },
+    "time_offset": 0,
+    "book_info": {
+      "is_available": true,
+      "should_open_external_tab_booking": 0,
+      "trprovider": "MEDIO_ZOMATO",
+      "mezzoProvider": 0,
+      "external_booking_link": "",
+      "href": "https://www.zomato.com/https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/book",
+      "button__title": "Book a Table",
+      "button__title_text_color": "",
+      "button__subtitle": "",
+      "button__subtitle_text_color": "",
+      "button__background_color": ""
+    },
+    "res_id": 19092616,
+    "related_links": {
+      "related_heading": "Related to Daddy, Indiranagar",
+      "related_data": [
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore\" title=\"Bangalore Restaurants\">Restaurants in Bangalore, Bangalore Restaurants</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/indiranagar-restaurants\" title=\"Indiranagar restaurants\">Indiranagar restaurants</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/best-indiranagar-restaurants\" title=\"Best Indiranagar restaurants\">Best Indiranagar restaurants</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/east-bangalore-restaurants\" title=\"East Bangalore restaurants\">East Bangalore restaurants</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/bar\" title=\"Bar in Bengaluru\">Bar in Bengaluru</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bars-near-me\" title=\"Bar near me\">Bar near me</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/east-bangalore-restaurants/bar\"  title=\"Bar in East Bangalore\">Bar in East Bangalore</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/indiranagar-restaurants/bar\" title=\"Bar in Indiranagar\">Bar in Indiranagar</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/casual-dining\" title=\"Casual Dining in Bengaluru\">Casual Dining in Bengaluru</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/casual-dining-near-me\" title=\"Casual Dining near me\">Casual Dining near me</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/east-bangalore-restaurants/casual-dining\"  title=\"Casual Dining in East Bangalore\">Casual Dining in East Bangalore</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/indiranagar-restaurants/casual-dining\" title=\"Casual Dining in Indiranagar\">Casual Dining in Indiranagar</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/newyear\" title=\"New Year Parties in Bengaluru\">New Year Parties in Bengaluru</a>",
+        "<a class=\"related-links-link grey-text hu\" href=\"https://www.zomato.com/bangalore/christmas\" title=\"New Year Parties in Bengaluru\">Christmas' Special in Bengaluru</a>"
+      ],
+      "popular_locations_heading": "Restaurants around Indiranagar",
+      "popular_locations_data": [
+        {
+          "href": "https://www.zomato.com/bangalore/thippasandra-restaurants",
+          "title": "List of Thippasandra restaurants",
+          "text": "Thippasandra restaurants"
+        },
+        {
+          "href": "https://www.zomato.com/bangalore/domlur-restaurants",
+          "title": "List of Domlur restaurants",
+          "text": "Domlur restaurants"
+        },
+        {
+          "href": "https://www.zomato.com/bangalore/jeevan-bhima-nagar-restaurants",
+          "title": "List of Jeevan Bhima Nagar restaurants",
+          "text": "Jeevan Bhima Nagar restaurants"
+        },
+        {
+          "href": "https://www.zomato.com/bangalore/ulsoor-restaurants",
+          "title": "List of Ulsoor restaurants",
+          "text": "Ulsoor restaurants"
+        }
+      ],
+      "frequent_searches_heading": "Frequent searches leading to this page",
+      "frequent_searches_data": [
+        {
+          "href": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore",
+          "text": "daddys"
+        },
+        {
+          "href": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore",
+          "text": "best eateries near me"
+        },
+        {
+          "href": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore",
+          "text": "daddys indiranagar"
+        },
+        {
+          "href": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore",
+          "text": "daddy menu"
+        },
+        {
+          "href": "https://www.zomato.com/bangalore/daddy-indiranagar-bangalore",
+          "text": "daddy cafe and bar indiranagar"
+        }
+      ]
+    },
+    "ui_strings": {
+      "timing_ui": {
+        "open_title": "Open now",
+        "open_title_color": "#099e44",
+        "timing_description": "12noon – 1am (Today)",
+        "timing_description_color": "#33373d",
+        "timing_search_title": "",
+        "timing_search_title_color": "",
+        "timing_search_subtitle": "",
+        "timing_search_subtitle_color": "",
+        "timing_search_bg_color": "",
+        "timing_call_title": "",
+        "timing_call_title_color": "",
+        "timing_call_description": "",
+        "timing_call_description_color": "",
+        "timing_call_bg_color": "",
+        "timing_map_title": "",
+        "timing_map_title_color": "",
+        "timing_map_subtitle": "",
+        "timing_map_subtitle_color": "",
+        "timing_map_bg_color": "",
+        "open_title_color_text": "blue",
+        "timing_description_color_text": "dark-grey",
+        "timing_search_title_color_text": "",
+        "timing_search_subtitle_color_text": "",
+        "timing_search_bg_color_text": "",
+        "timing_call_title_color_text": "",
+        "timing_call_description_color_text": "",
+        "timing_call_bg_color_text": "white",
+        "timing_map_title_color_text": "",
+        "timing_map_subtitle_color_text": "",
+        "timing_map_bg_color_text": ""
+      },
+      "restaurant_subtitle": "Bar - Finger Food, Continental, North Indian, Asian"
+    },
+    "red_data": {
+      "is_res_red": false,
+      "res_type": null,
+      "is_user_red": 0,
+      "redirect_url": "https://www.zomato.com/gold",
+      "isOpenOnApp": false,
+      "subscription_status": null
+    },
+    "similar_restaurants": {
+      "restaurants": []
+    },
+    "show_restaurant_2018": true
+  },
+  "global_data": {
+    "isEUuser": false
+  },
+  "pageInfo": {
+    "page": "RESTAURANT",
+    "type": "INFO",
+    "url": "/bangalore/daddy-indiranagar-bangalore",
+    "other": "",
+    "title": " \nDaddy, Indiranagar, Bangalore\n - Zomato",
+    "share_res_name": " \nDaddy, Indiranagar, Bangalore\n",
+    "description": " \nDaddy Bangalore; Daddy, Indiranagar; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Daddy Restaurant on Zomato\n"
+  }
+}
