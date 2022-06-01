@@ -24,7 +24,7 @@
     "puppeteer-extra-plugin-recaptcha": "^3.0.4",
     "puppeteer-extra-plugin-stealth": "^2.2.2",
     "random-useragent": "^0.3.1",
-    "sharp": "^0.23.0",
+    "sharp": "^0.30.5",
     "url": "^0.11.0",
     "uuid": "^3.3.2"
   }
